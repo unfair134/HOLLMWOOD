@@ -1,0 +1,96 @@
+{
+ "plot_1a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": [],
+  "13": []
+ },
+ "plot_1b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": [],
+  "13": [],
+  "14": []
+ },
+ "plot_1c": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔站在高处，紧了紧身上的皮毛斗篷，目光坚定地眺望着远处蜿蜒的山脉。</action>\n<parenthetical>(坚定而警觉)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [],
+  "3": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔转过头，脸上露出一抹微笑。</action>\n<parenthetical>(微微一笑，轻声地说)</parenthetical>\n<dialogue>只是在想南方的事情。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [],
+  "5": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔轻轻地点头，眼中闪过一丝理解的光芒。</action>\n<parenthetical>(带着一丝沉思)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [],
+  "7": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔心中感到一丝温暖，缓缓地点了点头。</action>\n<parenthetical>(带着一丝感动)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的心猛地一沉，他迅速转向老琼斯，眼神中透露出前所未有的坚定。</action>\n<parenthetical>(坚定地, 对老琼斯)</parenthetical>\n<dialogue>我们需要组织起来，准备出发。我们必须帮助他们。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [],
+  "11": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔深吸一口气，坚定地转身朝村庄的方向走去。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_1d": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": []
+ },
+ "plot_1e": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": []
+ }
+}

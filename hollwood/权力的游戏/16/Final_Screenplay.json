@@ -1,0 +1,79 @@
+{
+ "plot_1a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": []
+ },
+ "plot_1b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": []
+ },
+ "plot_2a": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔和他的同伴们小心翼翼地穿过阴森恐怖的森林，他们的脚步轻而谨慎。威尔走在队伍的前面，不时回头确认队友的位置，并用警惕的眼神扫视四周。</action>\n<parenthetical>(紧张且警觉)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔在森林中行走时，突然停下脚步。他发现了一具冰冷僵硬的野人尸体，脸色变得不安。</action>\n<parenthetical>(脸上露出不安的神情)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下了脚步，环顾四周，眼神中透露出警惕。他转向同伴们，身体微微前倾，压低了声音。</action>\n<parenthetical>(低声，带着明显的不安，对同伴们说)</parenthetical>\n<dialogue>我们应该小心一些。这里太不寻常了。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔摇头，他的眼神中充满了担忧和紧张，试图通过肢体语言来加强他话语的说服力。</action>\n<parenthetical>(焦急且坚定地)</parenthetical>\n<dialogue>你们没看到吗？这具尸体……它被冻得像石头一样硬。这不是自然现象，这里有危险。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [],
+  "6": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔感到一阵无力，身体微微摇晃了一下。但他没有放弃，咬紧牙关紧紧跟在队伍后面，眼睛不停地扫视着周围的环境，时刻保持警惕。</action>\n<parenthetical>(坚定而警觉)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [],
+  "8": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的心跳加速，他紧张地环顾四周，突然大声喊道：“停下！”但他的警告来得太迟。他眼睁睁看着前方的同伴们一个个倒下，身体迅速被冻结，变成了冰雕。</action>\n<parenthetical>(惊恐而绝望地)</parenthetical>\n<dialogue>停下！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>恐惧和绝望的表情浮现在威尔的脸上，他的眼神中充满了惊恐。他开始向后退去，步伐慌乱而急促，双手在空中挥动着试图保持平衡，身体微微颤抖，明显是在拼命地想要逃离这片致命的区域。</action>\n<parenthetical>(恐惧且绝望地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔喘着粗气，眼中充满了泪水，他的身体因疲惫和恐惧而微微颤抖。他环顾四周，确认自己是唯一的幸存者后，眼神中流露出坚定与决心。</action>\n<parenthetical>(绝望而又坚定地)</parenthetical>\n<dialogue>我必须活下去...我要把这个消息带回去。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔转身，脸上带着坚定的表情，踏上了返回长城的艰难旅程。他的脚步虽然沉重，但每一步都异常坚定。</action>\n<parenthetical>(内心独白，决心坚定)</parenthetical>\n<dialogue>无论多么艰难，我必须完成这个使命。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ }
+}

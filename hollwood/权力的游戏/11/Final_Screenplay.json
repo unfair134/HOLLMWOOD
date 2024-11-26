@@ -1,0 +1,419 @@
+{
+ "plot_1a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": []
+ },
+ "plot_1b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": []
+ },
+ "plot_2a": {
+  "0": [],
+  "1": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔紧跟在威玛爵士身后，脚步轻快但略显紧张。他的眼神中透露出明显的不安，四处张望，时刻保持着高度警觉。</action>\n<parenthetical>(沉默不语，眼神充满警惕)</parenthagetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞跟在威尔后面，步伐坚定但缓慢，保持着与威尔相同的沉默。他的眼神中充满了担忧，不时地扫视四周，展现出他对周围环境的高度警觉。</action>\n<parenthetical>(默默地注视着前方)</parentherical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔皱了皱眉，显得有些担忧。</action>\n<parenthetical>(小心翼翼地，对盖瑞建议道)</parenthetical>\n<dialogue>大人，这里的地形复杂，而且天色已晚，或许我们应该先找个地方扎营，等天亮再继续前进。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔点头表示赞同。</action>\n<parenthetical>(谨慎地，对盖瑞说)</parenthetical>\n<dialogue>是啊，大人，夜晚视线不好，万一遇到什么危险……</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [],
+  "7": [
+   {
+    "威尔": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞与威尔对视一眼后，无奈地加快了脚步，紧随威玛爵士的步伐前进。</action>\n<parenthetical>(无奈而坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔环顾四周，仔细观察着周围的地形和环境。他注意到一处稍微隐蔽且地势较高的地方，认为那里可以作为暂时的避难所。</action>\n<parenthetical>(谨慎地，向盖瑞提议)</parenthetical>\n<dialogue>盖瑞，你看那边的高地怎么样？我们可以在那里扎营过夜，这样既可以避开野兽，也能更好地观察周围的动静。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞显得有些慌乱，四处张望了一下，但很快调整了自己的心态，开始协助威尔寻找对策。</action>\n<parenthetical>(迅速恢复冷静，转向威尔)</parenthetical>\n<dialogue>大人，我们得找个安全的地方扎营。这里的地形复杂，天色也晚了，视线不好，容易遇到危险。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [],
+  "14": []
+ },
+ "plot_2b": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔骑在马上，紧紧跟随在威玛爵士和盖瑞的后面。他的眼神四处游移，透露出深深的不安与恐惧。</action>\n<parenthetical>(紧张且警惕地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔仔细观察四周的地形，眉头紧锁，显得十分谨慎。</action>\n<parenthetical>(小心翼翼地，对大人说)</parenthetical>\n<dialogue>大人，这里的地形复杂，而且天色已晚，或许我们应该先找个地方扎营，等天亮再继续前进。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔无奈地摇了摇头，随后紧紧勒住缰绳，侧耳倾听从树林中传来的轻微响动。</action>\n<parenthetical>(警觉地，低声自言自语)</parenthetical>\n<dialogue>这里似乎并不安全，得小心些...</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔压低声音，眼神警觉地环视四周。</action>\n<parenthetical>(低声，谨慎地)</parenthetical>\n<dialogue>你们听到什么了吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>皱着眉头四处张望。</action>\n<parenthetical>(谨慎且警觉，对周围环境保持高度警惕)</parenthetical>\n<dialogue>我什么也没听到，不过你的直觉一向很准，威尔。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔深吸一口气，努力平复心情，闭上眼睛，集中精神感受周围的环境。</action>\n<parenthetical>(谨慎地，警觉地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下脚步，环顾四周，显得有些紧张。</action>\n<parenthetical>(谨慎地, 对同伴们)</parenthetical>\n<dialogue>我们必须小心，这里有一种说不出的诡异感觉。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [],
+  "10": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔点了点头，他的眼神始终保持着高度警惕，扫视着周围的环境。他紧握着手中的武器，与另外两人一同继续前行。</action>\n<parenthetical>(谨慎地，对同伴)</parenthetical>\n<dialogue>我们必须小心，这里有一种说不出的诡异感觉。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_2c": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔骑在马上，紧随威玛爵士和盖瑞的步伐。他的眼神中充满了不安与恐惧，四处张望，对周围的环境保持着高度警觉。</action>\n<parenthetical>(紧张地观察四周)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔环顾四周，仔细观察着复杂的地形，随后转向盖瑞。</action>\n<parenthetical>(小心翼翼地，对盖瑞说)</parenthetical>\n<dialogue>大人，这里的地形复杂，而且天色已晚，或许我们应该先找个地方扎营，等天亮再继续前进。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔无奈地摇了摇头，眼神中透露出对当前处境的深深不安。</action>\n<parenthetical>(内心独白)</parenthetical>\n<dialogue>这里的环境如此恶劣，我心中的不安愈发强烈。我们真的能够安全度过这一夜吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [],
+  "6": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔立刻警觉起来，迅速勒住缰绳，让马停下。他侧耳倾听周围的动静，眼神中充满了警惕。</action>\n<parenthetical>(紧张地观察四周)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下脚步，环顾四周，神情紧张地观察着周围的环境。</action>\n<parenthetical>(低声, 紧张地向同伴问道)</parenthetical>\n<dialogue>你们听到什么了吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔皱着眉头四处张望，眼神中透露出警觉和不安。</action>\n<parenthetical>(严肃而谨慎地，对盖瑞)</parenthetical>\n<dialogue>我什么也没听到，不过你的直觉一向很准，威尔。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔深吸一口气，缓缓闭上眼睛，全身放松，试图让自己更加敏锐地感受到周围的一切。</action>\n<parenthetical>(集中精神，对周围的环境保持高度警觉)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔环顾四周，目光中带着警觉与不安。</action>\n<parenthetical>(低声，严肃地)</parenthetical>\n<dialogue>我们必须小心，这里有一种说不出的诡异感觉。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞轻轻拍了拍威尔的肩膀，用坚定的眼神看着他。</action>\n<parenthetical>(安慰地，对威尔)</parenthetical>\n<dialogue>别担心，威尔。我们已经不是第一次面对这样的情况了。记得上次我们对抗野人时，也是这样紧张。但最终我们还是挺过来了。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞看向威尔，眼神坚定而充满鼓励。</action>\n<parenthetical>(沉稳地，向威尔)</parenthetical>\n<dialogue>那时候，我们靠的是彼此的信任和支持。只要我们团结一致，没有什么是我们克服不了的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [],
+  "14": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔轻轻地点了点头，眼神中透露出一丝放松。</action>\n<parenthetical>(心中稍微放松了一些)</parenthalical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [],
+  "16": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的眼神始终保持着高度警惕，不断地扫视四周的环境，身体微微前倾，随时准备应对可能出现的未知威胁。</action>\n<parenthetical>(紧张而警觉地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_3a": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔骑在马上，紧随威玛爵士和盖瑞的步伐。他的眼神中充满了不安与恐惧，双手紧紧握住缰绳，身体微微前倾，似乎随时准备应对可能出现的危险。</action>\n<parenthetical>(紧张地观察四周)</parenthalical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔环顾四周，注意到天色已晚且地形复杂。</action>\n<parenthetical>(小心翼翼地，向盖瑞建议)</parenthetical>\n<dialogue>大人，这里的地形复杂，而且天色已晚，或许我们应该先找个地方扎营，等天亮再继续前进。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔无奈地摇了摇头，紧紧勒住缰绳，侧耳倾听周围的轻微响动。</action>\n<parenthetical>(谨慎地，对周围环境保持高度警觉)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔环顾四周，眼神中透露出警觉与不安。他微微俯身，耳朵贴近地面似乎在倾听什么。</action>\n<parenthetical>(低声，紧张地向同伴询问)</parenthetical>\n<dialogue>你们听到什么了吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下了脚步，皱着眉头四处张望。</action>\n<parenthetical>(疑惑而警惕地，对盖瑞说)</parenthetical>\n<dialogue>我什么也没听到，不过你的直觉一向很准，威尔。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔深吸一口气，闭上眼睛，集中精神感受周围的环境。</action>\n<parenthetical>(警觉地, 对盖瑞)</parenthetical>\n<dialogue>我们必须小心，这里有一种说不出的诡异感觉。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞轻轻拍了拍威尔的肩膀，脸上带着鼓励的微笑。</action>\n<parenthetical>(安慰地，对威尔)</parenthetical>\n<dialogue>别担心，威尔。我们已经不是第一次面对这样的情况了。记得上次我们对抗野人时，也是这样紧张。但最终我们还是挺过来了。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔抬头看向盖瑞，眼神中透露出一丝安心。</action>\n<parenthetical>(稍微放松了一些)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞坚定地看着威尔，眼神中充满了鼓励和信心。</action>\n<parenthetical>(坚定而充满信心地对威尔说道)</parenthetical>\n<dialogue>那时候，我们靠的是彼此的信任和支持。只要我们团结一致，没有什么是我们克服不了的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [],
+  "12": [],
+  "13": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔突然大声喊道：“停下！”同时迅速拔出自己的长弓，箭矢已在弦上，身体紧绷，目光警惕地扫视四周。</action>\n<parenthetical>(紧张而警觉，对未知的危险作出反应)</parenthetical>\n<dialogue>停下！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [],
+  "15": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔站定，目光锐利地扫视四周，表情严肃。</action>\n<parenthetical>(坚定地，对盖瑞)</parenthetical>\n<dialogue>有东西靠近了，大人。我们必须做好准备。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": [],
+  "17": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔迅速地从箭囊中抽出一支箭，搭在弓弦上，瞄准前方的一个模糊身影。随着弓弦的响声，箭矢飞速射出，精准地命中了那个身影的胸口。</action>\n<parenthetical>(紧张而果断)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "18": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔迅速拔出刀，目光警觉地环视四周，身体微微前倾，准备迎接即将到来的威胁。</action>\n<parenthetical>(紧张而坚定)</parenthalitical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "19": [],
+  "20": [],
+  "21": []
+ },
+ "plot_3b": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>骑在马上，紧随威玛爵士和盖瑞的步伐，表情紧张地环顾四周。</action>\n<parenthetical>(紧张, 对周围环境保持高度警觉)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔仔细观察四周，眉头紧锁，显得十分谨慎。</action>\n<parenthetical>(小心翼翼地，对盖瑞说)</parenthetical>\n<dialogue>大人，这里的地形复杂，而且天色已晚，或许我们应该先找个地方扎营，等天亮再继续前进。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔无奈地摇了摇头，紧紧勒住缰绳，身体微微前倾，侧耳倾听周围的轻微响动。</action>\n<parenthetical>(谨慎而警觉)</parenthagetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下脚步，环顾四周荒凉的景色，脸上带着一丝紧张和警惕。</action>\n<parenthetical>(低声地, 对盖瑞)</parenthetical>\n<dialogue>你们听到什么了吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>停下马，皱着眉头四处张望。</action>\n<parenthetical>(认真地，对威尔)</parenthetical>\n<dialogue>我什么也没听到，不过你的直觉一向很准，威尔。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔深吸一口气，闭上眼睛，身体微微放松，似乎在努力让自己平静下来。他缓缓地转动头部，仿佛在用其他感官感知周围的环境。</action>\n<parenthetical>(集中精神，感受周围的环境)</parenthonetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔环视四周，眼神中流露出警觉与不安。</action>\n<parenthetical>(谨慎地，对盖瑞)</parenthetical>\n<dialogue>我们必须小心，这里有一种说不出的诡异感觉。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞轻轻地拍了拍威尔的肩膀，目光坚定。</action>\n<parenthetical>(安慰地, 对威尔)</parenthetical>\n<dialogue>别担心，威尔。我们已经不是第一次面对这样的情况了。只要我们团结一致，没有什么是我们克服不了的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [],
+  "11": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的眼睛在四周快速扫视，他的身体保持着轻微的紧张状态，似乎随时准备应对可能出现的威胁。</action>\n<parenthetical>(警惕地)</parenthalic>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔突然大声喊道：“停下！”同时迅速拔出自己的长弓，箭矢已经在弦上，身体紧绷，目光锐利地扫视四周。</action>\n<parenthetical>(警觉而紧张，对盖瑞和周围的环境)</parenthetical>\n<dialogue>停下！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [],
+  "14": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下脚步，目光警惕地扫视四周，身体微微前倾，似乎在聆听任何可能的声响。</action>\n<parenthetical>(坚定地，向盖瑞)</parenthetical>\n<dialogue>有东西靠近了，大人。我们必须做好准备。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [],
+  "16": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔迅速拉满弓弦，瞄准前方阴影中的一个移动身影，果断地射出一箭，箭矢精准地命中了目标的胸口。</action>\n<parenthetical>(紧张而坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "17": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔迅速拔出刀，身体紧绷，目光警惕地扫视四周。</action>\n<parenthetical>(紧张而坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "18": [],
+  "19": [],
+  "20": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的眼睛在黑暗中警觉地扫视四周，手中的弓箭紧握不放，随时准备应对可能出现的威胁。</action>\n<parenthetical>(紧张而专注，保持高度警惕)</parenthalic>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_3c": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔背靠着盖瑞，身体微微颤抖，紧张地环顾四周，眼神中充满了警惕。寒风在耳边呼啸，吹得他的头发和衣服随风飘动。</action>\n<parenthetical>(紧张而警觉)</parentherical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞紧握刀柄，身体微微前倾，目光锐利地扫视着黑暗中逐渐显现的敌人。</action>\n<parenthetical>(警惕地, 紧张而坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [],
+  "3": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞在黑暗中挥舞着刀，刀光闪烁，划出一道道弧线，奋力抵挡着攻击。</action>\n<parenthetical>(大声喊道)</parenthetical>\n<dialogue>“坚持住！”</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔不断从箭囊中抽出箭矢，每一次都迅速地拉开弓弦，射出的箭矢如同长了眼睛一般精准地命中目标。</action>\n<parenthetical>(专注而坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [],
+  "6": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞迅速反应，举起手中的刀进行格挡。然而，那巨斧的力量太过猛烈，震得他手臂发麻，几乎无法稳住手中的武器。</action>\n<parenthetical>(咬紧牙关，试图稳住身体)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞勉强稳住身形，身体微微摇晃但努力保持平衡。他迅速转身，发现又有几个敌人正从背后逼近，眼神中闪过一丝紧张。</action>\n<parenthetical>(警觉地，低声自语)</parenthetical>\n<dialogue>又来了... 必须小心。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞迅速转身，眼睛扫视四周，发现一名敌人正悄悄接近威尔。他立刻大声提醒威尔，并同时用尽全力将那名敌人推开。</action>\n<parenthetical>(大声, 紧急地向威尔)</parenthetical>\n<dialogue>“威尔，小心身后！”</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔迅速转身，拉满弓弦，一箭精准地射穿了一个正在逼近的敌人的喉咙。紧接着，他环顾四周，发现更多的敌人已经从四面八方围了上来。</action>\n<parenthetical>(紧张而坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞的视线迅速捕捉到一个机会，他猛地向前跃出，手中紧握的刀锋利地刺入了一个敌人的胸膛。然而，在这过程中，他也暴露了自己的背部给其他敌人。</action>\n<parenthetical>(紧张而果断)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [],
+  "12": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞痛苦地大叫一声，身体猛然一颤。鲜血从他的伤口涌出，染红了他的衣服。他艰难地转过身来，用尽最后的力气挥动武器砍倒了那个敌人，然后倒在了地上。</action>\n<parenthetical>(痛苦而坚决)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔惊恐地喊出盖瑞的名字，立刻冲向倒在地上的盖瑞，试图扶起他。</action>\n<parenthetical>(惊恐地, 对盖瑞)</parenthetical>\n<dialogue>“盖瑞！”</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞的脸上满是痛苦，身体微微颤抖着，但他还是努力挤出一丝微笑。</action>\n<parenthetical>(勉强地，对威尔)</parenthetical>\n<dialogue>别管我，威尔……继续战斗。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的眼中充满了泪水，他紧咬牙关，身体微微颤抖。在短暂的沉默后，他深吸一口气，站起身来，重新拿起弓箭，目光坚定地望向前方。</action>\n<parenthetical>(内心充满悲伤但决心坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": [],
+  "17": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔跪在盖瑞身边，泪水从他的脸颊滑落，双手颤抖着握住盖瑞的手。</action>\n<parenthetical>(悲痛地，低头看着盖瑞)</parenthetical>\n<dialogue>不... 盖瑞... 你不能离开我们...</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "18": [],
+  "19": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔点点头，用衣袖擦去眼角的泪水，然后深吸一口气，缓缓站起身来。</action>\n<parenthetical>(坚定而悲伤地)</parentherical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ }
+}

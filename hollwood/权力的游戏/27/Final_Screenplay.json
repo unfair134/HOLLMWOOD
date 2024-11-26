@@ -1,0 +1,132 @@
+{
+ "plot_1a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": [],
+  "13": [],
+  "14": [],
+  "15": [],
+  "16": [],
+  "17": [],
+  "18": [],
+  "19": [],
+  "20": []
+ },
+ "plot_1b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": [],
+  "13": [],
+  "14": [],
+  "15": [],
+  "16": [],
+  "17": [],
+  "18": []
+ },
+ "plot_1c": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": [],
+  "13": [],
+  "14": [],
+  "15": [],
+  "16": [],
+  "17": [],
+  "18": [],
+  "19": [],
+  "20": [],
+  "21": [],
+  "22": [],
+  "23": [],
+  "24": [],
+  "25": []
+ },
+ "plot_1d": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": []
+ },
+ "plot_1e": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔推开门，表情紧张地走进房间。</action>\n<parenthetical>(声音带着颤抖, 对艾德说)</parenthetical>\n<dialogue>大人，威玛·罗伊斯爵士请求见您。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [],
+  "7": [
+   {
+    "威尔": "<scene>艾德的卧室。</scene>\n<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞轻轻点头，然后缓慢地退到一旁，让出空间给即将到来的威玛·罗伊斯爵士。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士走进房间，脸上带着严肃的表情，目光中透露出焦虑。他径直走向艾德大人。</action>\n<parenthetical>(低沉而急切地，对艾德大人说)</parenthetical>\n<dialogue>艾德大人，我带来了最新的消息。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [],
+  "10": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗里斯爵士深吸一口气，脸上显露出严肃的表情。</action>\n<parenthetical>(认真且郑重地)</parenthetical>\n<dialogue>我们收到了来自北境的消息，盖瑞在边境巡逻时发现了不明势力的踪迹。他们似乎在策划一场大规模的袭击，目标直指临冬城。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [],
+  "12": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士眉头紧锁，目光严肃地看向威尔。</action>\n<parenthetical>(认真且担忧地)</parenthetical>\n<dialogue>我已经命令加强边境的防御，并派遣更多的人手进行侦察。但情况并不乐观。敌人的行动非常隐秘，我们很难掌握他们的具体动向。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [],
+  "14": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士点头，然后站起身来。</action>\n<parenthetical>(坚定地，对艾德大人)</parenthetical>\n<dialogue>我会尽全力保护北境，艾德大人。请您保重身体，尽快恢复。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [],
+  "16": [],
+  "17": []
+ }
+}

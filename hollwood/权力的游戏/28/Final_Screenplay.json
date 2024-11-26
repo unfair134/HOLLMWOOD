@@ -1,0 +1,196 @@
+{
+ "plot_1a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": []
+ },
+ "plot_1b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": []
+ },
+ "plot_2a": {
+  "0": [],
+  "1": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>守夜人威玛·罗伊斯爵士</character>\n<action>守夜人威玛·罗伊斯爵士紧了紧身上的斗篷，身体微微颤抖。</action>\n<parenthetical>(声音颤抖地，对同伴)</parenthetical>\n<dialogue>你确定这条路是对的吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [],
+  "3": [
+   {
+    "威尔": "<detailed_performance>\n<character>守夜人威玛·罗伊斯爵士</character>\n<action>守夜人威玛·罗伊斯爵士警惕地环顾四周，目光扫视着周围的环境，身体微微紧绷。</action>\n<parenthetical>(警觉而紧张，低声对同伴们)</parenthetical>\n<dialogue>这里的气氛不对劲，感觉有什么东西在暗处盯着我们。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [],
+  "5": [],
+  "6": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔环顾四周，警惕地扫视着荒野中的每一个角落。</action>\n<parenthetical>(担忧且谨慎，对盖瑞和守夜人威玛·罗伊斯爵士)</parenthetical>\n<dialogue>我们得找个地方避避风头，这里太危险了。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [],
+  "8": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>守夜人威玛·罗伊斯爵士</character>\n<action>守夜人威玛·罗伊斯爵士从行囊中拿出一些干粮，分发给周围的同伴们。</action>\n<parenthetical>(坚定地，带着关心的语气对大家说)</parenthetical>\n<dialogue>吃点东西，补充体力。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [],
+  "10": [
+   {
+    "威尔": "<detailed_performance>\n<character>守夜人威玛·罗伊斯爵士</character>\n<action>静静地站着，目光深邃而坚定，眼中闪过一丝敬佩。</action>\n<parenthetical>(带着感慨和共鸣，看向威尔和盖瑞)</parenthetical>\n<dialogue>我们都是这样。每个人都有自己的故事，但我们都在为同一个目标而奋斗。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>守夜人威玛·罗伊斯爵士</character>\n<action>守夜人威玛·罗伊斯爵士坚定地点了点头，目光中透露出决心。</action>\n<parenthetical>(严肃而充满信心地)</parenthetical>\n<dialogue>是啊，我们共同面对即将到来的危险，无论发生什么，我们都会并肩作战。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [],
+  "13": []
+ },
+ "plot_2b": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>守夜人威玛·罗伊斯爵士</character>\n<action>守夜人威玛·罗伊斯爵士停下脚步，环顾四周，似乎察觉到了什么不寻常的气息。</action>\n<parenthetical>(低声地，警惕地)</parenthetical>\n<dialogue>“停一下，你们感觉到没有？这里有什么不对劲。”</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔冲上前去，试图援救被异鬼围困的威玛·罗伊斯爵士。他迅速拔出剑，与另一个靠近的异鬼交手。</action>\n<parenthetical>(紧张而坚定地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "异鬼首领": "<detailed_performance>\n<character>异鬼首领</character>\n<action>一个高大的身影出现在战场中央，周身散发着无形的压力。它缓缓地走向守夜人威玛·罗伊斯爵士，手中握着的利刃在昏暗中发出令人胆寒的光芒。</action>\n<parenthetical>(充满威胁感，无声)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [],
+  "11": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔怒吼一声，不顾一切地冲向异鬼首领，眼中充满了复仇的火焰。</action>\n<parenthetical>(愤怒且坚定，对异鬼首领)</parenthetical>\n<dialogue>为了威玛爵士！我要为他报仇！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "异鬼首领": "<detailed_performance>\n<character>威尔</character>\n<action>威尔迅速反应，轻松地挡住了威玛·罗伊斯爵士的攻击，并以迅捷而有力的动作将他击倒在地。</action>\n<parenthetical>(冷静而坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔挣扎着从雪地中站起来，他的身体因寒冷和疲惫而颤抖。他看向躺在不远处雪地上的威玛·罗伊斯爵士，眼中充满了泪水。</action>\n<parenthetical>(悲伤且充满决心)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的声音颤抖着，显得十分恐惧和不安。</action>\n<parenthetical>(声音颤抖，害怕地)</parenthetical>\n<dialogue>威玛爵士……</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [
+   {
+    "异鬼首领": "<detailed_performance>\n<character>异鬼首领</character>\n<action>异鬼首领再次举起利刃，准备给威尔致命一击。</action>\n<parenthetical>(冷酷无情地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>守夜人威玛·罗伊斯爵士</character>\n<action>从背后冲了出来，用尽全身力气撞开了异鬼首领。</action>\n<parenthetical>(勇敢且充满决心)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "17": [],
+  "18": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔跪倒在冰冷的地面上，他的身体因极度悲痛而颤抖着。</action>\n<parenthetical>(悲痛欲绝, 对着天空大声呼喊)</parenthetical>\n<dialogue>不！威玛爵士……为什么是你？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "19": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔站定，目光坚定地环视四周。</action>\n<parenthetical>(坚定地, 对同伴们)</parenthetical>\n<dialogue>我们必须回去报告，告诉所有人这里发生的一切。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "20": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔轻轻地点了点头，眼神中透露出更加坚定的决心。</action>\n<parenthetical>(坚定地，心中充满了复仇的火焰)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "21": []
+ },
+ "plot_3a": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔坐在篝火旁，双手交叉放在膝盖上，眉头紧锁，眼神中流露出深深的忧虑。</action>\n<parenthetical>(神色凝重)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞缓缓地走到威尔旁边坐下，眉头紧锁，眼神中流露出深深的忧虑。</action>\n<parenthetical>(忧心忡忡，看向威尔)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "奥丁": "<detailed_performance>\n<character>奥丁</character>\n<action>奥丁缓缓走进山洞，眼神锐利地扫视四周，他的步伐虽然缓慢但坚定。</action>\n<parenthetical>(苍老而坚定的声音)</parenthetical>\n<dialogue>你们需要学会如何在这样的环境中生存下去。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔立刻站起身来，面向奥丁微微低头致敬。</action>\n<parenthetical>(恭敬地, 对奥丁说)</parenthetical>\n<dialogue>奥丁大人，我们一直在寻找对抗异鬼的方法。</dialogue>\n\n<character>盖瑞</character>\n<action>盖瑞也迅速站起身来，与威尔一同向奥丁致敬。</action>\n<parenthetical>(同样恭敬地, 对奥丁点头)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "奥丁": "<detailed_performance>\n<character>奥丁</character>\n<action>奥丁点了点头，缓缓地坐到火堆旁。</action>\n<parenthetical>(严肃而沉稳，对威尔和盖瑞)</parenthetical>\n<dialogue>异鬼是一种古老的邪恶存在，它们的力量来自寒冷与黑暗。要对抗它们，不仅需要勇气，还需要智慧。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "奥丁": "<detailed_performance>\n<character>奥丁</character>\n<action>奥丁站在一片开阔的雪地中，周围是简陋的避难所。他手持一根树枝，在雪地上画着示意图，向威尔和盖瑞展示如何在雪地中寻找食物、如何搭建临时避难所以及如何在夜晚保持温暖。</action>\n<parenthetical>(认真且耐心地，对威尔和盖瑞)</parenthetical>\n<dialogue>在这片寒冷的土地上，你们需要学会如何找到可以食用的植物和动物。看这里，这是一些常见的可食用根茎。至于避难所，要选择背风的地方，并用树枝和雪块来加固。晚上，记得点燃火堆并紧挨在一起以保暖。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "奥丁": "<detailed_performance>\n<character>奥丁</character>\n<action>奥丁面容严肃，目光坚定地注视着威尔和盖瑞。</action>\n<parenthetical>(严肃地, 对威尔和盖瑞)</parenthetical>\n<dialogue>但最重要的是，你们必须了解南方发生的事情。鹰巢城正在进行一场审判，提利昂·兰尼斯特将与瓦狄斯爵士决斗。这场审判可能会分散人们对真正威胁——异鬼的关注。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞与威尔对视一眼，他的眼神中充满了不安和疑惑。</action>\n<parenthetical>(担忧地，向威尔)</parenthetical>\n<dialogue>这意味着什么？</dialogue>\n\n<character>威尔</character>\n<action>威尔紧皱眉头，目光从盖瑞转向远方，似乎在思考着什么。</action>\n<parenthetical>(忧虑地，回应盖瑞)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "奥丁": "<scene>长城之外的隐居地。</scene>\n<detailed_performance>\n<character>奥丁</character>\n<action>奥丁的目光变得严肃，他缓缓地扫视了威尔和盖瑞一眼，然后将双手交叉在胸前。</action>\n<parenthetical>(认真且坚定, 对威尔和盖瑞)</parenthetical>\n<dialogue>这意味着，当人们把注意力集中在内部纷争上时，真正的敌人就会趁虚而入。我们必须让所有人意识到这一点，并做好准备。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔站直身体，目光坚定地看向盖瑞和奥丁。</action>\n<parenthetical>(坚定地, 对盖瑞和奥丁)</parenthetical>\n<dialogue>我们需要回去报告，告诉所有人这里发生的一切。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "奥丁": "<detailed_performance>\n<character>奥丁</character>\n<action>奥丁点了点头，眼中闪过一丝欣慰。</action>\n<parenthetical>(温和而坚定地，看着威尔和盖瑞)</parenthetical>\n<dialogue>很好，你们已经准备好面对这场战争了。记住，只有团结一致，才能战胜异鬼。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": []
+ }
+}

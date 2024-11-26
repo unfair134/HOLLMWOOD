@@ -1,0 +1,236 @@
+{
+ "plot_1a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": []
+ },
+ "plot_1b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": []
+ },
+ "plot_2a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": []
+ },
+ "plot_3a": {
+  "0": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士骑在队伍的最前面，银色铠甲在月光下微弱地闪烁。他挺直腰板，目光坚定地注视着前方。</action>\n<parenthetical></parenthonetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "威尔": "<scene>长城以北森林。</scene>\n<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士紧随其后，目光警惕地扫视四周的黑暗，他的手紧握剑柄，身体微微前倾，随时准备应对可能出现的威胁。</action>\n<parenthetical>(紧张且警觉)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔紧随在威玛·罗伊斯爵士身后，步伐略显紧张，脸上明显流露出深深的担忧和不安。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士停下脚步，目光扫视四周阴暗的森林，声音低沉而紧张。</action>\n<parenthetical>(低声, 谨慎地对同伴们说)</parenthetical>\n<dialogue>今晚的天气有些反常。我们应该加快速度，尽快完成巡逻。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔轻轻地点了点头，眼神中带着一丝忧虑。</action>\n<parenthetical>(赞同地，对威玛·罗伊斯爵士)</parenthetical>\n<dialogue>是啊，我总感觉有什么不好的事情要发生。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [],
+  "6": [
+   {
+    "威玛·罗伊斯爵士": "<scene>长城以北森林。</scene>\n<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士环顾四周，目光中流露出一丝紧张。他突然提高了声音，向他的同伴发出警告。</action>\n<parenthetical>(大声且急切地)</parenthetical>\n<dialogue>快！找一个避风的地方！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [],
+  "8": [],
+  "9": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士脱下自己的斗篷，轻轻地递给了威尔和盖瑞。</action>\n<parenthetical>(坚定而关切地，对威尔和盖瑞说)</parenthetical>\n<dialogue>你们先用这个取暖，我没事。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "威尔": "<scene>长城以北森林。</scene>\n<detailed_performance>\n<character>威尔</character>\n<action>威尔接过斗篷，眼中闪过一丝惊讶。</action>\n<parenthetical>(惊讶地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔接过威玛·罗伊斯爵士递给他的物品，脸上露出感激的神情。</action>\n<parenthetical>(感激地，对威玛·罗伊斯爵士)</parenthetical>\n<dialogue>谢谢你，威玛爵士。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [],
+  "13": [],
+  "14": [
+   {
+    "威玛·罗伊斯爵士": "<scene>长城以北森林。</scene>\n<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士站得笔直，目光坚定地环视着周围的队友。</action>\n<parenthetical>(坚定地，对威尔和盖瑞)</parenthetical>\n<dialogue>我们继续前进吧，无论前方有多少困难，我们都能一起克服。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": []
+ },
+ "plot_3b": {
+  "0": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士骑在马背上，目光锐利地扫视着四周的荒野。</action>\n<parenthetical>(警觉而谨慎)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士紧随其后，眼神中流露出一丝紧张与警惕，手紧紧握住剑柄。</action>\n<parenthetical>(谨慎而警觉地观察周围环境)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔紧跟着威玛·罗伊斯爵士，四处张望，眉头紧锁，表现出明显的紧张和警惕。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士猛地勒住缰绳，示意队伍停下。</action>\n<parenthetical>(低声地，带着一丝紧张)</parenthetical>\n<dialogue>你们听到了吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士点头，紧握手中的剑柄，显得既警惕又不安。</action>\n<parenthetical>(认真而紧张地)</parenthetical>\n<dialogue>是的，那声音非常不寻常。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士皱起眉头，警惕地四处张望。</action>\n<parenthetical>(严肃且谨慎)</parenthetical>\n<dialogue>这里不应该有这种声音。我们得小心。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [],
+  "8": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士的声音有些颤抖，他环视四周，试图寻找声音的来源。</action>\n<parenthetical>(颤抖着, 紧张地)</parenthetical>\n<dialogue>“那是什么？”</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士深吸一口气，努力让自己镇定下来。</action>\n<parenthetical>(坚定而谨慎地，对威尔和盖瑞)</parenthetical>\n<dialogue>我不知道，但我们需要保持警惕。继续前进，不要掉队。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [],
+  "11": [],
+  "12": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士心跳加速，眼神中闪过一丝紧张与警觉。</action>\n<parenthetical>(低声且急促地对队友说)</parenthetical>\n<dialogue>快！找一个地方隐蔽起来。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [],
+  "14": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士的手心满是汗水，他紧紧握住手中的弓箭，目光警惕地扫视四周，随时准备应对可能出现的威胁。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [],
+  "16": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士的声音几乎变成了耳语，他紧张地四处张望，试图寻找声音的来源。</action>\n<parenthetical>(几乎是耳语, 紧张地)</parenthetical>\n<dialogue>那是什么东西？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "17": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士咬紧牙关，眼神坚定而谨慎。</action>\n<parenthetical>(低声, 对威尔和盖瑞)</parenthetical>\n<dialogue>不管是什么，我们都必须保持冷静。等它过去再说。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "18": [],
+  "19": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士站直了身子，目光坚定地扫视着他的同伴。</action>\n<parenthetical>(坚定地，对威尔和盖瑞)</parenthetical>\n<dialogue>我们继续前进吧，无论前方有多少困难，我们都能一起克服。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "20": []
+ },
+ "plot_3c": {
+  "0": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士的脸色变得凝重，环视四周寒冷的环境。</action>\n<parenthetical>(低声且急切地)</parenthetical>\n<dialogue>我们必须找个地方躲起来，这样下去我们都会冻死。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔点头，他的目光在黑暗中迅速扫视，寻找任何可以利用的藏身之处。他指向远处一片密集的树林。</action>\n<parenthetical>(坚定而谨慎地)</parenthetical>\n<dialogue>那边有一片密林，我们可以去那里看看。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞紧了紧身上的斗篷，身体因为寒冷而微微颤抖。</action>\n<parenthetical>(牙齿打颤，谨慎地对威玛·罗伊斯爵士和威尔说)</parenthetical>\n<dialogue>好的，但要小心。这种天气下，什么都有可能发生。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [],
+  "5": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士迅速脱下自己厚重的斗篷，转身将它递给了威尔和盖瑞。</action>\n<parenthetical>(坚定而关心地)</parenthetical>\n<dialogue>你们先用这个取暖，我没事。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔接过威玛·罗伊斯爵士递给他的斗篷，眼中闪过一丝惊讶。</action>\n<parenthetical>(惊讶而感激地，对威玛·罗伊斯爵士)</parenthetical>\n<dialogue>谢谢你，威玛爵士。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞微微点头，眼神中透露出一丝感激和敬意。</action>\n<parenthetical>(诚恳地，对威玛·罗伊斯爵士)</parenthetical>\n<dialogue>谢谢你，威玛爵士。你让我们感到温暖了许多。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士站起身来，整理了一下身上的斗篷，目光坚定地望向营地外的暴风雪逐渐减弱的方向。</action>\n<parenthetical>(坚决而自信地对队友们说)</parenthetical>\n<dialogue>我会尽快回来，你们在这里等我。我要去外面侦察一下情况。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的眉头紧锁，眼神中流露出明显的担忧。</action>\n<parenthetical>(担心地，对威玛·罗伊斯爵士)</parenthetical>\n<dialogue>这么恶劣的天气，你一个人出去太危险了。还是我们一起吧。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士摇了摇头，目光坚定，转身面向密林深处。</action>\n<parenthetical>(坚定地，对威尔和盖瑞)</parenthetical>\n<dialogue>不，你们在这里休息。我速度快，能更好地完成侦察任务。放心，我会小心的。</dialogue>\n<action>说完，他便踏上了前往密林深处的道路，步伐稳健而迅速。</action>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔在寒风中紧缩着身体，四处张望，眼神中流露出明显的不安。</action>\n<parenthetical>(焦急且带着一丝恐惧，对威玛·罗伊斯爵士的迟迟未归感到担忧)</parenthetical>\n<dialogue>他怎么还没回来？时间一分一秒地过去……</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞站在原地，眼神中充满了担忧，他紧紧握住手中的家乡小物件。</action>\n<parenthetical>(担忧且略带悲观地，向威尔)</parenthetical>\n<dialogue>希望他一切安好。我们要不要去找他？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [],
+  "14": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔立刻握住剑柄，身体紧绷，眼神警惕地环顾四周。</action>\n<parenthetical>(紧张地, 对盖瑞和威玛·罗伊斯爵士)</parenthetical>\n<dialogue>有危险！我们必须马上离开这里。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [],
+  "16": []
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "plot_1a": {
+  "0": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克</character>\n<action>布兰坐在轮椅上，面色苍白。他的眼神中透露出一丝好奇与期待。</action>\n<parenthetical>(带着对未知的好奇和即将发生的事情的期待)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "提利昂·兰尼斯特": "<detailed_performance>\n<character>提利昂·兰尼斯特</character>\n<action>提利昂带着微笑走进房间，他的背包里藏着一份特别的礼物。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克</character>\n<action>布兰·史塔克看着提利昂，脸上带着疑惑和好奇。</action>\n<parenthetical>(挑衅地，对提利昂·兰尼斯特)</parenthetical>\n<dialogue>你就是那个传说中的小恶魔？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "提利昂·兰尼斯特": "<detailed_performance>\n<character>提利昂·兰尼斯特</character>\n<action>提利昂点头微笑，从背包中取出一卷羊皮纸。</action>\n<parenthetical>(温和地，对布兰·史塔克)</parenthetical>\n<dialogue>这是给你的礼物，一份特别的马鞍设计图。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克</character>\n<action>布兰的眼睛瞬间亮了起来，脸上露出了惊喜的表情。</action>\n<parenthetical>(充满希望地，看着提利昂)</parenthetical>\n<dialogue>你怎么知道……</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "提利昂·兰尼斯特": "<detailed_performance>\n<character>提利昂·兰尼斯特</character>\n<action>提利昂打断布兰的话，缓缓地将设计图递给布兰。</action>\n<parenthetical>(认真而同情地，对布兰)</parenthetical>\n<dialogue>我听说了你的故事，也明白失去行走能力对于一个热爱冒险的人来说意味着什么。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [],
+  "7": [
+   {
+    "提利昂·兰尼斯特": "<detailed_performance>\n<character>提利昂·兰尼斯特</character>\n<action>提利昂·兰尼斯特停下手中的动作，缓缓地转过身来，平静而温和地看着布兰·史塔克。</action>\n<parenthetical>(平静地，对布兰·史塔克)</parenthetical>\n<dialogue>别担心，老伙计，我没有恶意。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>提利昂·兰尼斯特</character>\n<action>提利昂·兰尼斯特轻轻地拍了拍布兰·史塔克的脑袋，表现出一种安抚的姿态。</action>\n<parenthetical>(温柔地，带着关心)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "提利昂·兰尼斯特": "<detailed_performance>\n<character>提利昂·兰尼斯特</character>\n<action>提利昂·兰尼斯特坐下来，与布兰面对面。他以一种平和而坚定的语气开始讲述自己的经历。</action>\n<parenthetical>(温和而坚定地，看着布兰)</parenthetical>\n<dialogue>布兰，我曾面对过身体上的缺陷，也曾克服内心的恐惧。真正的勇气并非无畏前行，而是即便害怕也要勇敢面对。记住这一点，它会让你变得更强。</dialogue>\n<action>提利昂的眼神中闪烁着坚定而温柔的光芒，仿佛在传递一种无声的支持与鼓励。</action>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克</character>\n<action>布兰的脸上浮现出久违的力量感，他的眼神中闪烁着希望与感激。</action>\n<parenthetical>(真诚地，对提利昂·兰尼斯特)</parenthetical>\n<dialogue>谢谢你，提利昂。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "提利昂·兰尼斯特": "<detailed_performance>\n<character>提利昂·兰尼斯特</character>\n<action>提利昂站起身，轻轻地拍了拍布兰的肩膀。</action>\n<parenthetical>(诚恳而坚定地，对布兰说)</parenthetical>\n<dialogue>布兰，不要放弃你的梦想。我向你保证，我会尽我所能帮助你实现这份愿望。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克</character>\n<action>布兰紧紧握住了手中的设计图，眼中闪烁着对未来的无限憧憬。</action>\n<parenthetical>(充满希望地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_2a": {
+  "0": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克</character>\n<action>布兰·史塔克坐在轮椅上，神情黯然，目光低垂，似乎沉浸在自己的思绪中。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "罗柏·史塔克": "<detailed_performance>\n<character>罗柏·史塔克</character>\n<action>罗柏·史塔克站在布兰身旁，轻轻拍了拍他的肩膀。</action>\n<parenthetical>(坚定而温柔地，对布兰说)</parenthetical>\n<dialogue>布兰，我知道这对你来说是个巨大的打击。但你并不孤单，我会一直陪在你身边。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克</character>\n<action>布兰抬头看着罗柏，眼中闪烁着泪光。</action>\n<parenthetical>(声音有些颤抖，对罗柏说)</parenthetical>\n<dialogue>可是……我们还能找到叔叔吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "罗柏·史塔克": "<detailed_performance>\n<character>罗柏·史塔克</character>\n<action>罗柏紧紧握住布兰的手，目光坚定地注视着弟弟。</action>\n<parenthetical>(充满决心，对布兰)</parenthetical>\n<dialogue>我们会尽一切努力去寻找。无论发生什么，我都会帮你克服困难。还记得提利昂送给你的那份马鞍设计图吗？我们一起制作它，然后骑马去探险，就像你一直以来梦想的那样。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克</character>\n<action>布兰的眼里涌起了一丝温暖的光芒，他轻轻地握住了罗柏的手。</action>\n<parenthetical>(轻声地，感激地对罗柏说)</parenthetical>\n<dialogue>谢谢你，罗柏。</dialogue>\n<action>他的脸上露出了一丝微笑，仿佛心中重新燃起了希望之火。</action>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "罗柏·史塔克": "<detailed_performance>\n<character>罗柏·史塔克</character>\n<action>罗柏·史塔克点头，目光坚定地看向布兰。</action>\n<parenthetical>(坚定而鼓舞人心地对布兰说)</parenthetical>\n<dialogue>点了点头，继续说道：“而且，我们不仅仅是为了你的梦想。找到叔叔也是我们的责任。我相信班扬叔叔一定还活着，我们需要团结一致，共同面对这个挑战。”</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克</character>\n<action>布兰的眼神逐渐变得坚定，他的脸上浮现出一种新的决心。</action>\n<parenthetical>(坚定地，对罗柏·史塔克)</parenthetical>\n<dialogue>对，我们要一起找到叔叔。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克, 罗柏·史塔克</character>\n<action>布兰和罗柏的目光交汇在一起，他们的眼神中充满了坚定与信任。两人之间仿佛有一种无形的力量在流动，这种力量源自于兄弟间深厚的情感纽带。</action>\n<parenthetical>(彼此间的信任和支持)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   },
+   {
+    "罗柏·史塔克": "<detailed_performance>\n<character>布兰·史塔克, 罗柏·史塔克</character>\n<action>布兰和罗柏面对面站立，他们的目光交汇在一起，眼中流露出坚定的信任和支持。这种无形的力量似乎让整个大厅的气氛都变得温暖起来。</action>\n<parenthetical>(彼此间充满信任与支持)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [],
+  "9": [
+   {
+    "布兰·史塔克": "<detailed_performance>\n<character>布兰·史塔克, 罗柏·史塔克</character>\n<action>布兰和罗柏站在一起，目光坚定地望向前方。他们的眼神中充满了对未来的期待和勇气。</action>\n<parenthetical>(满怀信心地，彼此对视)</parenthetical>\n<dialogue>无论前方有多少艰难险阻，只要兄弟齐心，就没有什么是不可能克服的。</dialogue>\n</detailed_performance>"
+   },
+   {
+    "罗柏·史塔克": "<detailed_performance>\n<character>布兰·史塔克, 罗柏·史塔克</character>\n<action>两人站在临冬城的大厅里，目光坚定地望着前方。</action>\n<parenthetical>(充满决心和勇气，互相支持)</parenthetical>\n<dialogue>布兰·史塔克: 无论前方有多少艰难险阻，只要兄弟齐心，就没有什么是不可能克服的。\n罗柏·史塔克: (点头赞同) 是的，布兰。我们一起面对，一定能找到叔叔并战胜一切困难。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ }
+}

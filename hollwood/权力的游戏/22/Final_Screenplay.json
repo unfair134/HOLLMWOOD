@@ -1,0 +1,144 @@
+{
+ "plot_1a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": []
+ },
+ "plot_1b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": [],
+  "13": [],
+  "14": []
+ },
+ "plot_2a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞出现在战斗现场，迅速走到提利昂身边，解开他身上的绳索，并递给他一把短剑。</action>\n<parenthetical>(低声，对提利昂)</parenthetical>\n<dialogue>提利昂，你需要武器。用你的智慧，而不是力量。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>听到提利昂的话后，盖瑞迅速做出反应，他转身面对几名士兵，果断地挥手示意他们跟随。随后，他带领这些士兵快速前往提利昂提到的位置，并在那里成功阻止了敌人的进攻。</action>\n<parenthetical>(坚定而果决)</parenthetical>\n<dialogue>跟我来！我们必须立刻行动，不能让敌人得逞！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [],
+  "11": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>在混乱的战斗现场，盖瑞正在不远处与两名敌人搏斗。他经验丰富，动作敏捷且精准，轻松地应对着敌人的攻击。</action>\n<parenthetical>(大声喊叫，对提利昂)</parenthetical>\n<dialogue>干得好，提利昂！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [],
+  "13": [],
+  "14": [],
+  "15": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞走过来，轻轻地拍了拍提利昂的肩膀。</action>\n<parenthetical>(温和而坚定地，对提利昂说)</parenthetical>\n<dialogue>小伙子，你的智慧和勇气令人敬佩。我相信你会找到证明自己清白的方法。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": []
+ },
+ "plot_2b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>未命名角色</character>\n<action>未命名角色走过来，静静地站在一旁，专注地听着两人的对话。</action>\n<parenthetical>(静静地, 专注地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞转向凯特琳夫人，认真地看着她。</action>\n<parenthetical>(诚恳地，对凯特琳夫人说)</parenthetical>\n<dialogue>凯特琳夫人，提利昂在战斗中的表现非常勇敢。如果不是他，我们可能无法击退那些山地部落。我觉得我们应该给他一个机会，听听他的解释。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [],
+  "7": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞低下头，目光坚定地看向对方。</action>\n<parenthetical>(语气坚定，诚恳地说)</parenthetical>\n<dialogue>我知道您对提利昂怀有深深的怀疑，但我也看到了他的勇气和智慧。或许我们可以再给他一些时间，让他证明自己的清白。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [],
+  "9": [],
+  "10": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞微微点头，转身，稳步回到自己的岗位。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [],
+  "12": [],
+  "13": [],
+  "14": [],
+  "15": [],
+  "16": []
+ },
+ "plot_3a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>和罗宾走了过来，他们都曾在战斗中见识到了提利昂的勇气和智慧。</action>\n<parenthetical>(诚恳地，对凯特琳夫人)</parenthetical>\n<dialogue>凯特琳夫人，提利昂先生确实值得我们信任。他在战斗中的表现证明了他的勇气。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [],
+  "13": [],
+  "14": [],
+  "15": []
+ },
+ "plot_3b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": [],
+  "13": [],
+  "14": [],
+  "15": []
+ }
+}

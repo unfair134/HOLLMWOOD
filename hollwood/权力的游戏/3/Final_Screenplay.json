@@ -1,0 +1,225 @@
+{
+ "plot_1a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": []
+ },
+ "plot_1b": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": []
+ },
+ "plot_2a": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下脚步，他的目光被前方的一堆物体吸引，身体微微前倾，表现出浓厚的兴趣和警惕。</action>\n<parenthetical>(好奇且警觉地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔轻轻地靠近他的同伴，眼神中带着一丝紧张和警觉。</action>\n<parenthetical>(低声，谨慎地指向某个方向)</parenthetical>\n<dialogue>看那边。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威尔, 威玛·罗伊斯爵士, 盖瑞</character>\n<action>三人小心翼翼地移动脚步，逐渐靠近那堆不明物体。当他们走近时，发现那是一群被冰冻的野人尸体，身体僵硬，面容凝固在恐惧之中。</action>\n<parenthetical>(谨慎且警惕地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   },
+   {
+    "威尔": "<detailed_performance>\n<character>威尔, 威玛·罗伊斯爵士, 盖瑞</character>\n<action>三人小心翼翼地靠近那堆物体，每一步都显得异常谨慎。当他们走近时，发现这是一群冰冻的野人尸体，这些尸体被冰雪覆盖，面容僵硬。</action>\n<parenthetical>(紧张而警觉)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   },
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔, 威玛·罗伊斯爵士, 盖瑞</character>\n<action>三人小心翼翼地靠近那堆物体，他们的眼睛紧紧盯着前方。当他们逐渐接近时，他们的脚步变得越来越慢，表情也愈发凝重。最终，他们发现那是一群冰冻的野人尸体，每一具尸体都保持着死亡前最后的姿态，令人毛骨悚然。</action>\n<parenthetical>(谨慎且紧张)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔环顾四周，显得非常不安，眉头紧锁。</action>\n<parenthetical>(喃喃自语，带着恐惧和疑惑)</parenthetical>\n<dialogue>这太诡异了，是什么东西能把人变成这样？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威尔</character>\n<action>威尔皱起眉头，身体微微颤抖，环顾四周的森林，仿佛在寻找那股不祥气息的来源。</action>\n<parenthetical>(紧张且警惕地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [],
+  "11": [],
+  "12": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔, 威玛·罗伊斯爵士, 盖瑞</character>\n<action>三人继续深入北境的森林，他们小心翼翼地移动着，每一步都显得格外谨慎。周围环境阴森恐怖，空气中弥漫着一种不安的气息。突然间，威尔停下脚步，似乎发现了什么重要的线索。</action>\n<parenthetical>(严肃且警觉地)</parenthetical>\n<dialogue>我们必须找到答案。这些野人不会无缘无故消失，背后一定隐藏着某种秘密。</dialogue>\n</detailed_performance>"
+   },
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔, 威玛·罗伊斯爵士, 盖瑞</character>\n<action>三人继续深入北境的森林，每一步都显得格外小心。他们的眼睛四处扫视，试图找到任何线索来解释那些神秘消失的野人背后的真相。</action>\n<parenthetical>(严肃而警惕地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   },
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威尔, 威玛·罗伊斯爵士, 盖瑞</character>\n<action>三人继续深入北境的森林，小心翼翼地观察着周围的环境。他们的步伐变得越来越谨慎，每一步都充满了警觉。</action>\n<parenthetical>(严肃而坚定地)</parenthetical>\n<dialogue>威玛·罗伊斯爵士: 我们必须找到那些野人消失的原因。这背后一定有某种真相。\n\n威尔: (点头) 是的，我们必须揭开这个谜团。\n\n盖瑞: (沉思) 这太诡异了。是什么东西能把人变成这样？我们必须保持警惕。\n</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_2b": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔独自站在空旷的雪地上，四周寂静无声。他深呼吸着，能够清晰地听到自己的呼吸声和远处狼群的嚎叫声。他的目光四处扫视，显得十分紧张。</action>\n<parenthetical>(紧张地环顾四周)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔感到一股寒意从脊背升起，他迅速转过头去，目光紧盯着前方。随着视线的移动，他看到了一群高大、苍白的身影缓缓向他逼近，它们的眼中闪烁着幽蓝的光芒。</action>\n<parenthetical>(紧张而警惕地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "异鬼": "<detailed_performance>\n<character>异鬼</character>\n<action>异鬼无声无息地在北境的森林中移动，仿佛是从另一个世界来的幽灵。它的步伐轻盈而毫无声息，周围的一切似乎都因它的存在而变得异常寂静。</action>\n<parenthetical></parenthalical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的心跳几乎停止，他的身体因为极度的恐惧而僵硬。他想转身逃跑，但双腿却像被无形的力量固定在了原地上，动弹不得。他眼睁睁地看着一只异鬼缓缓地伸出手，触碰不远处的一具野人尸体。</action>\n<parenthetical>(惊恐地，几乎说不出话来)</parenthetical>\n<dialogue></dialogue>\n<action>那具野人的尸体突然间眼睛猛地睁开，发出一声凄厉的尖叫，整个身体开始挣扎着站了起来，变成了一个可怕的尸鬼。</action>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔惊恐地环顾四周，身体颤抖着。他突然意识到自己是这场恐怖事件唯一的目击者，眼神中充满了恐惧和绝望。他迅速转身，开始在森林中狂奔，试图尽快逃离这片恐怖之地。</action>\n<parenthetical>(惊恐万分，语无伦次)</parenthetical>\n<dialogue>不...不可能...我必须离开这里...快点...不然就来不及了！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "异鬼": "<detailed_performance>\n<character>异鬼</character>\n<action>异鬼缓缓来到威尔面前，它的动作无声而充满威胁。它的眼神冰冷无情，仿佛能穿透威尔的灵魂。</action>\n<parenthetical>(冰冷无情地凝视着威尔)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>感受到一种难以言喻的恐惧从心底涌出，他紧闭双眼，深吸一口气强迫自己冷静下来。接着，他迅速拔出腰间的匕首，握紧武器，奋力向那只异鬼冲去。</action>\n<parenthetical>(紧张且坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔靠在一棵大树旁，双手扶着膝盖，喘着粗气。他的眼神中透露出疲惫与困惑交织的情绪，身体微微颤抖。</action>\n<parenthetical>(心中充满复杂情绪，低声自言自语)</parenthetical>\n<dialogue>这...这些异鬼不仅仅是物理上的威胁...它们还能影响心智...</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔紧握着拳头，眼神坚定而充满决心。他转身朝向长城的方向，迈开大步向前走去。</action>\n<parenthetical>(严肃地自言自语)</parenthetical>\n<dialogue>我必须尽快回到长城，把这个可怕的消息告诉守夜人军团，让他们准备好面对这场灾难。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_3a": {
+  "0": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士坐在篝火旁，他的眼神坚定而严肃，目光直视着前方，仿佛在思考着即将到来的挑战和北境的未来。</action>\n<parenthetical>(坚定且严肃地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士打破了寂静，他的声音在北境的森林中回荡。他抬头看向星空，眼中闪过一丝沉思。</action>\n<parenthetical>(沉思地, 对着星空)</parenthetical>\n<dialogue>你们知道吗？我曾经是一个非常傲慢的人。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士站在北境的森林中，目光坚定地注视着前方。</action>\n<parenthetical>(认真而坚定地)</parenthetical>\n<dialogue>但是，自从我们来到这里，面对这些不可思议的事情，我开始意识到责任的重要性。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士站在北境的森林中，静静地听着周围的动静。</action>\n<parenthetical>(专注而警惕)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士点点头，眼神中流露出对过去的回忆。</action>\n<parenthetical>(深情地, 回忆起过去的经历)</parenthetical>\n<dialogue>是的，你当时确实表现得很勇敢。我们都看到了你的变化。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士微微一笑，眼神中透露出温暖和感激。</action>\n<parenthetical>(心中涌起一股暖流)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士警觉地站起身来，迅速拔出长剑。</action>\n<parenthetical>(警觉且严肃地，对同伴们)</parenthetical>\n<dialogue>大家准备好，有什么东西靠近了。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "威尔": "<scene>北境的森林。</scene>\n<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士迅速地拿起他的长剑，转身背靠着威尔站立。</action>\n<parenthetical>(警觉地, 对着威尔)</parenthetical>\n<dialogue>有什么东西靠近了，准备好战斗！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士迅速地拿起武器，转身背靠背站立。</action>\n<parenthetical>(警觉且果断)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士压低声音，目光坚定地扫视四周，确保所有人都能听到他的命令。</action>\n<parenthetical>(低声且坚定，面向同伴们)</parenthetical>\n<dialogue>保持冷静，我们会一起度过这场危机。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士挥舞长剑，每一次斩击都精准而有力。他的动作流畅而自信，展现出他在战斗中的训练有素和坚定决心。</action>\n<parenthetical>(严肃地，集中精神)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士紧握手中的长剑，眼神坚定而警惕。他迅速环视四周，确认所有同伴都已准备好战斗。随着一阵寒风袭来，他的肌肉紧绷，准备迎接即将到来的威胁。</action>\n<parenthetical>(坚决地，向同伴们)</parenthetical>\n<dialogue>大家准备好！有什么东西靠近了，我们必须奋力抵抗这些异鬼！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士紧握手中的长剑，眼神坚定地环视四周。他站稳脚跟，准备迎接即将到来的威胁。</action>\n<parenthetical>(坚决而勇敢)</parenthetical>\n<dialogue>我们必须奋力抵抗这些异鬼！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士深深地吸了一口气，收起长剑。</action>\n<parenthetical>(严肃而坚定地)</parenthetical>\n<dialogue>我们必须尽快回到长城，将这一切告诉守夜人军团。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士微微点头，表情坚定。</action>\n<parenthetical>(坚定地，对同伴们)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士坚定地点了点头。</action>\n<parenthetical>(严肃且果断)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士, 威尔, 盖瑞</character>\n<action>三人迅速地收拾好各自的行装，检查装备是否齐全，并且确认每个人都已准备好。随后，他们坚定地踏上了返回长城的路程。</action>\n<parenthetical>(严肃且充满决心)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_4a": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": []
+ }
+}

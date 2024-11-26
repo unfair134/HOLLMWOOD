@@ -1,0 +1,611 @@
+{
+ "plot_1a": {
+  "0": [
+   {
+    "珊莎·史塔克": "<scene>家庭晚餐桌旁。</scene>\n<detailed_performance>\n<character>珊莎·史塔克</character>\n<action>珊莎皱着眉头，目光中流露出不满的情绪，她略微提高了声音。</action>\n<parenthetical>(略带责备地, 对艾莉亚)</parenthetical>\n<dialogue>“艾莉亚，你今天又去哪儿了？自从父亲给你那把剑后，你就整天不着家。”</dialogue>\n\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚的眉头紧锁，她明显不喜欢被姐姐这样质问，脸上露出不悦的表情。</action>\n<parenthetical>(皱眉, 对珊莎)</parenthetical>\n<dialogue>“我只是在练习剑术，这有什么不对吗？”</dialogue>\n\n<character>珊莎·史塔克</character>\n<action>珊莎的声音更加高亢，眼中闪过一丝轻蔑，显得非常不满。</action>\n<parenthetical>(提高音量, 眼中带有轻蔑, 对艾莉亚)</parenthetical>\n<dialogue>“你看看你自己，整天舞刀弄枪，像什么样子！我们是贵族家庭的女儿，应该学些琴棋书画才对。”</dialogue>\n\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚嘲讽地重复了一遍姐姐的话，声音里充满了愤怒和不屑。</action>\n<parenthetical>(嘲讽地, 带着愤怒, 对珊莎)</parenthetical>\n<dialogue>“琴棋书画？你以为这些就能保护自己了吗？在这个世界里，只有实力才能让你活下去！”</dialogue>\n\n<character>珊莎·史塔克</character>\n<action>珊莎毫不退让，坚定地回应妹妹的挑衅。</action>\n<parenthetical>(坚定地, 不退让, 对艾莉亚)</parenthetical>\n<dialogue>“你太幼稚了，艾莉亚。这个世界不是靠打打杀杀就能解决一切的。”</dialogue>\n\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚的声音变得更加愤怒，她的语气也更加强硬。</action>\n<parenthetical>(更加愤怒, 语气强硬, 对珊莎)</parenthetical>\n<dialogue>“那你告诉我，除了这个，我还能做什么？我不能像你那样只会讨好别人，我要用自己的方式生存下去。”</dialogue>\n\n<character>艾德·史塔克</character>\n<action>艾德叹了口气，他明白两个女儿性格迥异，但希望她们能够彼此理解和包容。最终，他沉声说道，声音充满了威严。</action>\n<parenthetical>(叹气, 沉声, 充满威严, 对两姐妹)</parenthetical>\n<dialogue>“够了！你们都是我的女儿，我希望你们能够和睦相处。艾莉亚，我知道你喜欢剑术；珊莎，我也理解你的担忧。但请记住，在这个家里，我们需要的是团结而不是争斗。”</dialogue>\n\n<character>艾莉亚·史塔克, 珊莎·史塔克</character>\n<action>两姐妹虽然停止了争吵，但心中的隔阂似乎更深了。艾莉亚的眼神依然充满愤怒，而珊莎则带着一丝无奈。</action>\n<parenthetical>(停止争吵, 心中的隔阂更深, 艾莉亚眼神充满愤怒, 珊莎带着无奈)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": []
+ },
+ "plot_1b": {
+  "0": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚独自坐在床边，手中紧紧握着一把剑。她的眼神中流露出复杂的情绪，既有坚定也有迷茫。</action>\n<parenthetical>(内心充满挣扎和决心)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [],
+  "3": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚叹了口气，将手中的剑轻轻放在一旁的桌子上，然后起身走向门口。她打开门，恭敬地站在一边，让父亲艾德·史塔克进入。</action>\n<parenthetical>(略显疲惫但不失礼貌)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德走进房间，看到女儿脸上的忧郁表情后停下脚步，眉头紧锁，眼神中流露出担忧和心疼。</action>\n<parenthetical>(带着关心与忧虑)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克走进房间，走到艾莉亚身边，轻轻拍了拍她的肩膀。</action>\n<parenthetical>(关切地，对艾莉亚说)</parenthetical>\n<dialogue>你怎么了，艾莉亚？你看起来心情不太好。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚低下头，沉默了一会儿，似乎在整理思绪。</action>\n<parenthetical>(终于鼓起勇气，抬头看向父亲)</parenthetical>\n<dialogue>我和珊莎又吵架了，我觉得她根本不懂我。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克点了点头，缓缓坐到床边，温柔地注视着女儿。</action>\n<parenthetical>(温和而坚定，对艾莉亚说)</parenthetical>\n<dialogue>我知道你们性格不同，但这并不代表你们不能互相理解。珊莎有自己的方式，而你也一样。重要的是，你们都是我的女儿，我希望你们能够和睦相处。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚咬了咬下唇，眼中闪过一丝倔强的光芒。</action>\n<parenthetical>(坚定地，带着些许不满，看着父亲)</parenthetical>\n<dialogue>可是，父亲，我不明白为什么她总是看不起我喜欢的东西。剑术对我来说很重要，它让我感到强大。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克微微一笑，眼神中流露出对艾莉亚的理解和关爱。</action>\n<parenthetical>(温和地，带着理解的语气对艾莉亚说)</parenthetical>\n<dialogue>我明白你的感受，艾莉亚。剑术确实能让你变得更强，但记住，真正的力量不仅仅是武力，还包括智慧和心胸。你姐姐也有她的优点，你们可以互相学习。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚抬起头，目光坚定地看向父亲的眼睛。她深吸一口气，试图平息心中的愤怒。她的肩膀微微放松，但仍然保持着些许的紧张。</action>\n<parenthetical>(带着不甘心的情绪，对艾德·史塔克)</parenthetical>\n<dialogue>我知道你说得有道理，父亲。但我还是觉得有些事情我必须坚持自己的想法。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚低头看着地面，轻轻地叹了一口气。</action>\n<parenthetical>(低声地，带着一丝无奈)</parenthetical>\n<dialogue>我会试着去理解她的，但我真的很难改变自己。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德紧紧握住艾莉亚的手，脸上露出温暖而坚定的笑容。</action>\n<parenthetical>(温和而坚定地对艾莉亚说)</parenthetical>\n<dialogue>不需要改变自己，艾莉亚。只需要学会理解和包容。这样，你们的关系会越来越好。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚点了点头，脸上露出了一丝释然的表情。她的眼神中透露出一丝坚定和希望。</action>\n<parenthetical>(平静地，内心有所触动)</parenthetical>\n<dialogue>我知道了，父亲。虽然我和珊莎之间的隔阂不会立刻消失，但我愿意尝试去理解和接受她。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚抬头看着父亲，眼中重新燃起了希望的光芒。</action>\n<parenthetical>(轻声地，感激地)</parenthetical>\n<dialogue>谢谢你，父亲。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德站起身，整理了一下自己的衣物，准备离开房间。在即将走出房门时，他停下脚步，回头深情地看向艾莉亚。</action>\n<parenthetical>(温柔而坚定地对艾莉亚说)</parenthetical>\n<dialogue>无论发生什么，记住，我们都是一家人。晚安，艾莉亚。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚目送父亲离去，随后重新拿起剑，脸上露出坚定的表情。</action>\n<parenthetical>(坚定地)</parenthetical>\n<dialogue>晚安，父亲。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_1c": {
+  "0": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德坐在一张简单的木椅上，双手交叠放在膝盖上，目光凝视着房间的入口，等待着两个女儿的到来。</action>\n<parenthetical>(耐心而坚定地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克, 珊莎·史塔克</character>\n<action>艾莉亚从左边缓缓走来，珊莎则从右边慢慢接近。两人在相遇时停下了脚步，表情显得有些拘谨。</action>\n<parenthetical>(两人都显得有些紧张和不安)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   },
+   {
+    "珊莎·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克, 珊莎·史塔克</character>\n<action>艾莉亚从左侧缓缓走来，珊莎则从右侧慢慢靠近。两人在相遇时都放慢了脚步，脸上带着一丝拘谨和不安。</action>\n<parenthetical>(各自表现出谨慎的态度)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克温和地走进房间，脸上带着慈爱的笑容。他看着自己的女儿们，轻轻地点头示意她们坐下。</action>\n<parenthetical>(温和地，对着艾莉亚和珊莎)</parenthetical>\n<dialogue>早上好，我的女儿们。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克, 珊莎·史塔克</character>\n<action>艾莉亚和珊莎对视了一眼，各自坐到了椅子上。她们的动作显得有些僵硬，空气中弥漫着一种微妙的紧张感。</action>\n<parenthetical>(沉默片刻后，彼此间的眼神交流中充满了复杂的情绪)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   },
+   {
+    "珊莎·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克, 珊莎·史塔克</character>\n<action>艾莉亚和珊莎在房间内对视了一眼，眼神中透露出一种微妙的紧张感。她们各自缓缓地坐到了椅子上。</action>\n<parenthetical>(沉默而紧张地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克站在安静的角落，眼神温和但坚定地看向他的女儿们。</action>\n<parenthetical>(平静而严肃，面向艾莉亚和珊莎)</parenthetical>\n<dialogue>我知道你们之间有一些分歧，但请记住，我们是一家人，我们需要彼此支持。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚低下头，手指轻轻摩挲着剑柄。</action>\n<parenthetical>(沉默而坚定，内心充满思绪)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "珊莎·史塔克": "<detailed_performance>\n<character>珊莎·史塔克</character>\n<action>珊莎紧绷着下巴，眉头微皱，眼神中流露出明显的怒气。</action>\n<parenthetical>(生气地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德转向艾莉亚，目光温柔地注视着她。</action>\n<parenthetical>(温柔地，对艾莉亚说)</parenthetical>\n<dialogue>艾莉亚，你热爱剑术，这没有什么不对。每个人都有自己的道路要走。你的勇气和坚韧让我感到骄傲。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚抬起头，眼中闪过一丝感激的光芒。</action>\n<parenthetical>(感激地，看向艾德·史塔克)</parenthetical>\n<dialogue>谢谢您，父亲。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克转向珊莎，目光温柔而坚定。</action>\n<parenthetical>(温和地，鼓励地对珊莎说)</parenthetical>\n<dialogue>珊莎，你也一样。你的优雅和智慧同样是我们家族宝贵的财富。你有你的优点，艾莉亚也有她的长处。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "珊莎·史塔克": "<detailed_performance>\n<character>珊莎·史塔克</character>\n<action>珊莎微微咬了咬嘴唇，眼神中流露出思考的神情。她缓缓地点了点头，但依然保持沉默。</action>\n<parenthetical>(认真地思考着父亲的话)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克注视着他的两个女儿，语气坚定而充满关怀。</action>\n<parenthetical>(认真且满怀希望地对艾莉亚和珊莎说)</parenthetical>\n<dialogue>我希望你们能够学会理解和尊重对方的选择。这个世界很大，每个人的路都不相同。重要的是，我们要团结在一起，共同面对未来的挑战。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚深吸了一口气，目光坚定地看向她的姐姐。</action>\n<parenthetical>(诚恳而坚定，对珊莎)</parenthetical>\n<dialogue>姐姐，我知道我有时候会让你担心。但我真的喜欢剑术，它让我感到自由和强大。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [
+   {
+    "珊莎·史塔克": "<detailed_performance>\n<character>珊莎·史塔克</character>\n<action>珊莎看着艾莉亚，眼神中透露出一丝柔和与理解。</action>\n<parenthetical>(温柔地，对艾莉亚)</parenthetical>\n<dialogue>我也知道我不应该总是批评你。每个人都有自己的方式去适应这个世界。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克目光温和地扫视着他的两个女儿，脸上洋溢着欣慰和温暖的笑容。</action>\n<parenthetical>(深情而坚定地)</parenthetical>\n<dialogue>这就是我要说的。互相理解，互相支持。无论你们选择什么样的道路，我都为你们感到骄傲。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚和珊莎对视一笑，眼中流露出一丝温暖。</action>\n<parenthetical>(温柔地，转向父亲)</parenthetical>\n<dialogue>谢谢你，父亲。</dialogue>\n\n<character>珊莎·史塔克</character>\n<action>珊莎也微笑着看向父亲，脸上带着感激之情。</action>\n<parenthetical>(同时，温柔地)</parentherical>\n<dialogue>谢谢你，父亲。</dialogue>\n</detailed_performance>"
+   },
+   {
+    "珊莎·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克, 珊莎·史塔克</character>\n<action>艾莉亚和珊莎对视，脸上露出了一丝微笑。尽管两人之间的隔阂仍然存在，但她们的眼神中透露出一种愿意尝试理解和接受对方的决心。</action>\n<parenthetical>(感激地, 面向彼此)</parenthetical>\n<dialogue>谢谢你，父亲。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德站起身，微笑着依次轻轻拍了拍艾莉亚和珊莎的肩膀。</action>\n<parenthetical>(温和而坚定地，对两个女儿说)</parenthetical>\n<dialogue>无论发生什么，记住，我们都是一家人。现在，让我们一起去吃早餐吧。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "17": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克, 珊莎·史塔克</character>\n<action>艾莉亚和珊莎从安静的角落起身，肩并肩地朝着餐厅的方向走去。她们的步伐坚定而同步。</action>\n<parenthetical>(带着坚定的眼神，互相看了一眼)</parenthetical>\n<dialogue>艾莉亚·史塔克: 姐姐，不管未来怎样，只要我们团结一致，就没有克服不了的困难。\n珊莎·史塔克: 是的，艾莉亚。虽然我们的路不同，但只要彼此支持，我们一定能找到属于自己的道路。</dialogue>\n</detailed_performance>"
+   },
+   {
+    "珊莎·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克, 珊莎·史塔克</character>\n<action>艾莉亚和珊莎并肩站起身，从安静的角落里走出。她们的步伐坚定而同步，朝着餐厅的方向走去。</action>\n<parenthetical>(充满决心地对彼此说)</parenthetical>\n<dialogue>艾莉亚·史塔克: 姐姐，不管未来怎样，只要我们团结一致，就没有克服不了的困难。\n珊莎·史塔克: 是的，艾莉亚。虽然我们的路不同，但只要彼此支持，我们一定能找到属于自己的道路。</dialogue>\n</detailed_performance>"
+   },
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克, 珊莎·史塔克</character>\n<action>艾莉亚和珊莎从安静的角落站起身，手挽手一起走出房间。两人并肩而行，步伐坚定地朝着餐厅的方向走去。</action>\n<parenthetical>(充满决心且相互支持地)</parenthetical>\n<dialogue>艾莉亚·史塔克: 姐姐，不管未来怎样，只要我们团结一致，就没有克服不了的困难。\n珊莎·史塔克: 是的，艾莉亚。虽然我们的路不同，但只要彼此支持，我们一定能找到属于自己的道路。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_2a": {
+  "0": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚坐在床边，手中握着一把秘密的剑。她脸上带着复杂的表情，轻轻地抚摸剑身，仿佛在与它对话。</action>\n<parenthetical>(复杂而深思的表情)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克叹了口气，将手中的剑放在一边，然后起身走向门口并打开了门。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克走进艾莉亚的房间，看到女儿脸上的忧郁表情后，他的眉头紧锁，显露出担忧之情。他缓缓走向艾莉亚，站在她的身旁，用右手轻轻拍了拍她的肩膀。</action>\n<parenthetical>(关切地，对艾莉亚说)</parenthetical>\n<dialogue>你怎么了，艾莉亚？你看起来心情不太好。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚低下头，沉默了一会儿，脸上露出一丝痛苦和无奈的表情。</action>\n<parenthetical>(终于鼓起勇气，抬起头来)</parenthetical>\n<dialogue>我和珊莎又吵架了，我觉得她根本不懂我。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克点了点头，缓缓地坐到床边，温柔地看着艾莉亚。</action>\n<parenthetical>(温和而坚定地，对艾莉亚说)</parenthetical>\n<dialogue>我知道你们性格不同，但这并不代表你们不能互相理解。珊莎有自己的方式，而你也一样。重要的是，你们都是我的女儿，我希望你们能够和睦相处。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚咬了咬嘴唇，眼中闪过一丝倔强。</action>\n<parenthetical>(坚定地，对艾德·史塔克)</parenthetical>\n<dialogue>可是，父亲，我不明白为什么她总是看不起我喜欢的东西。剑术对我来说很重要，它让我感到强大。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克微微一笑，眼神温柔地看着艾莉亚。</action>\n<parenthetical>(温和地，理解地)</parenthetical>\n<dialogue>我明白你的感受，艾莉亚。剑术确实能让你变得更强，但记住，真正的力量不仅仅是武力，还包括智慧和心胸。你姐姐也有她的优点，你们可以互相学习。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚抬起头，目光坚定地看向父亲的眼睛。她深呼吸几次，试图让自己平静下来。</action>\n<parenthetical>(心中虽然仍有不满，但语气已有所缓和)</parenthetical>\n<dialogue>我知道您说的有道理，父亲... 但是，我还是觉得很难接受姐姐的态度。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克的目光落在床边的那把剑上，眼神中闪过一丝惊讶。</action>\n<parenthetical>(转向艾莉亚，带着好奇和关切)</parenthetical>\n<dialogue>这是什么剑，艾莉亚？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克犹豫了一下，眼神中透露出坚定与决心，然后坦白地说道。</action>\n<parenthetical>(犹豫后，坚定地看着艾德·史塔克)</parenthetical>\n<dialogue>这是我从铁匠铺买来的。我想学剑术，但我没有告诉任何人。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克拿起剑，仔细端详着。他轻轻地转动剑身，感受其轻巧和锋利。</action>\n<parenthetical>(慈爱且理解地看着艾莉亚)</parenthetical>\n<dialogue>你为什么要隐藏这把剑？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚咬了咬嘴唇，显得有些紧张和不安。</action>\n<parenthetical>(声音颤抖，眼中含着泪光)</parenthetical>\n<dialogue>我怕别人不理解我，特别是母亲和珊莎。她们总是觉得女孩子不应该学剑术。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克点了点头，轻轻地放下了艾莉亚手中的剑。</action>\n<parenthetical>(温柔而理解地，对艾莉亚说)</parenthetical>\n<dialogue>我明白了，艾莉亚。但你知道吗？每个人都有权利追求自己热爱的事物。如果你真的喜欢剑术，我会支持你的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚的眼睛突然亮了起来，她的脸上露出了一丝惊喜的表情。</action>\n<parenthetical>(兴奋且充满期待地看向父亲)</parenthetical>\n<dialogue>真的吗，父亲？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克微笑着点了点头，目光温柔地看着艾莉亚。</action>\n<parenthetical>(温和而坚定地，对艾莉亚说)</parenthetical>\n<dialogue>是的。我可以为你找一个剑术老师，教你如何使用这把剑。但你要答应我，要学会控制自己的情绪，不要让剑术成为你发泄愤怒的工具。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚激动地点头，眼中闪烁着感激和决心。</action>\n<parenthetical>(充满感激地看着父亲)</parenthetical>\n<dialogue>谢谢您，父亲！我会好好学习的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "17": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>紧紧握住艾莉亚的手，脸上带着温暖而坚定的笑容。</action>\n<parenthetical>(充满鼓励地，对艾莉亚)</parenthetical>\n<dialogue>我相信你能做到。现在，让我们一起去找一个合适的剑术老师吧。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "18": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克的脸色变得坚定，她的眼神中充满了决心。</action>\n<parenthetical>(坚定地，内心独白)</parenthetical>\n<dialogue>虽然前路充满挑战，但我相信自己能够找到属于自己的道路。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "19": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克抬头看着她的父亲，眼中重新燃起了希望的光芒。</action>\n<parenthetical>(轻声地，充满感激)</parenthetical>\n<dialogue>谢谢你，父亲。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "20": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克站起身，准备离开房间，然后回头看向艾莉亚。</action>\n<parenthetical>(温柔而坚定地，对艾莉亚)</parenthetical>\n<dialogue>无论发生什么，记住，我们都是一家人。晚安，艾莉亚。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "21": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚目送父亲离开房间后，她重新拿起放在一旁的剑，脸上露出坚定的表情。她的目光中充满了对未来的决心和勇气。</action>\n<parenthetical>(坚定地自言自语)</parenthetical>\n<dialogue>晚安，父亲。虽然前路充满挑战，但我相信自己能够找到属于自己的道路。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_2b": {
+  "0": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克坐在床边，手中紧紧握着剑。她已经醒来，脸上带着坚定的表情。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克敲了敲门，然后轻轻推开，走进房间。</action>\n<parenthetical>(温和地，眼中带着慈爱)</parenthetical>\n<dialogue>早上好，艾莉亚。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚站起身，脸上洋溢着期待的笑容。</action>\n<parenthetical>(充满期待地对艾德·史塔克说)</parenthetical>\n<dialogue>早上好，父亲。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克走到艾莉亚身边，目光温和地注视着她手中的剑。</action>\n<parenthetical>(关切地，对艾莉亚·史塔克)</parenthetical>\n<dialogue>你准备好了吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克坚定地点了点头，目光中充满了决心。</action>\n<parenthetical>(坚定地，对艾德·史塔克)</parenthetical>\n<dialogue>是的，父亲，我已经准备好了。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德微笑着点了点头，从怀中拿出一封信递给艾莉亚。</action>\n<parenthetical>(温和地, 对艾莉亚说)</parenthetical>\n<dialogue>这是给你的剑术老师的信，他已经答应教你剑术。他的名字叫西利欧·佛瑞尔，是一位非常出色的剑士。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克接过父亲递来的信，眼中闪烁着感激和坚定。</action>\n<parenthetical>(充满感激地，对艾德·史塔克)</parenthetical>\n<dialogue>谢谢您，父亲。我一定会努力学习的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克轻轻地拍了拍艾莉亚的肩膀。</action>\n<parenthetical>(温和而坚定地，对艾莉亚说)</parenthetical>\n<dialogue>我相信你能做到。但记住，剑术不仅仅是一种技能，更是一种心态和精神。你要学会控制自己的情绪，不要让剑术成为你发泄愤怒的工具。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克认真地点了点头。</action>\n<parenthetical>(坚定而尊敬地，对艾德·史塔克)</parenthetical>\n<dialogue>我会牢记您的教诲，父亲。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [],
+  "10": [],
+  "11": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克引领西利欧·佛瑞尔进入房间，站在艾莉亚·史塔克面前。</action>\n<parenthetical>(温和地, 向艾莉亚介绍)</parenthetical>\n<dialogue>这位就是西利欧·佛瑞尔，他会教你‘水之舞’剑术。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [],
+  "13": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克深吸一口气，跟随着西利欧来到院子中央。阳光照耀下，她感受到院子里清新的空气。</action>\n<parenthetical>(充满期待和紧张)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [],
+  "15": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚紧握手中的木剑，全神贯注地听西利欧的指导。她的眼神中透露出兴奋和决心。</action>\n<parenthetical>(专注地，充满期待)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克站在一旁，双手交叉在胸前，静静地注视着艾莉亚练习剑术。他的眼神中充满了温柔和骄傲。</action>\n<parenthetical>(默默地, 对艾莉亚)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "17": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>在西利欧的指导下，艾莉亚开始学习基本的剑术姿势和步伐。她先是有些笨拙地模仿着老师的动作，但即便如此，她也没有表现出丝毫气馁。相反，艾莉亚一次又一次地重复练习，直到她的动作逐渐变得流畅而自然。</action>\n<parenthetical>(坚定且专注)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "18": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>太阳渐渐升高，艾莉亚的汗水浸湿了她的衣衫。她用袖子擦了擦额头上的汗水，但脸上的笑容却愈发灿烂。</action>\n<parenthetical>(坚定而充满希望地)</parenthetical>\n<dialogue>无论前路多么艰难，我都有足够的勇气和力量去面对。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_2c": {
+  "0": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克坐在书桌旁，目光温柔而坚定地注视着对面的女儿。</action>\n<parenthetical>(沉稳，关切地看着艾莉亚)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克走进书房，坐在父亲艾德·史塔克对面的椅子上，眼神中带着一丝好奇。</action>\n<parenthetical>(好奇地看向父亲)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德深吸一口气，目光坚定地看向艾莉亚。</action>\n<parenthetical>(认真地，对艾莉亚)</parenthetical>\n<dialogue>艾莉亚，我们之前谈过关于剑术的事情，但我还想和你谈谈一些更重要的事情。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚抬起头，眼神中充满了好奇和期待。</action>\n<parenthetical>(好奇地，对父亲)</parenthetical>\n<dialogue>什么事情，父亲？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克严肃地看向艾莉亚，语气坚定而认真。</action>\n<parenthetical>(认真地，对艾莉亚)</parenthetical>\n<dialogue>勇气与责任，这是每一个人都需要面对的主题。尤其是现在，北方的情况越来越紧张，我们需要做好准备。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克轻轻点头，目光中透露出一丝好奇和紧张。</action>\n<parenthetical>(带着一丝疑惑和关切)</parenthetical>\n<dialogue>父亲，您是说北方的局势吗？那里真的有那么危险吗？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克叹了口气，眼神中闪过一丝忧虑。</action>\n<parenthetical>(忧虑地，对艾莉亚·史塔克说)</parenthetical>\n<dialogue>是的，北方的局势非常复杂。野人们开始变得不安分，而异鬼的传说也越来越多。这些都让我感到担忧。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克咬了咬下唇，眼中闪烁着坚定的光芒。</action>\n<parenthetical>(坚定地，看向艾德·史塔克)</parenthetical>\n<dialogue>父亲，我会努力学习剑术，保护家人。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克微微一笑，眼中流露出一丝安慰。</action>\n<parenthetical>(温和而坚定地对艾莉亚说)</parenthetical>\n<dialogue>我很高兴你能有这样的决心。但记住，勇气不仅仅是战斗的力量，更是面对困难时的坚持和不屈。责任感则是对自己和他人的承诺。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克若有所思地点了点头，眼中闪烁着坚定和决心。</action>\n<parenthetical>(认真而坚定地，对艾德·史塔克)</parenthetical>\n<dialogue>我明白了，父亲。我会努力成为一个勇敢且负责任的人。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克伸出手，轻轻拍了拍艾莉亚的肩膀。</action>\n<parenthetical>(温柔而坚定地，对艾莉亚·史塔克)</parenthetical>\n<dialogue>我相信你能做到。无论未来怎样，我们都是一家人，要团结一致，共同面对。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚的眼睛中闪过坚定的光芒，她紧紧地握住手中的剑柄。</action>\n<parenthetical>(坚定地，看向艾德·史塔克)</parenthetical>\n<dialogue>是的，父亲。我们会一起度过难关的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克站起身，缓步走到窗边，目光投向外面渐渐暗淡的天色。</action>\n<parenthetical>(温和而坚定地对艾莉亚说)</parenthetical>\n<dialogue>时间不早了，你也该休息了。明天继续跟西利欧学习剑术，他会教你很多有用的东西。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "13": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚站起身，走向父亲艾德·史塔克，给了他一个温暖的拥抱。</action>\n<parenthetical>(感激且温柔地，对艾德·史塔克)</parenthetical>\n<dialogue>谢谢您，父亲。晚安。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [
+   {
+    "艾德·史塔克": "<detailed_performance>\n<character>艾德·史塔克</character>\n<action>艾德·史塔克轻声说道，目送女儿艾莉亚离开书房。</action>\n<parenthetical>(温柔地, 对艾莉亚)</parenthetical>\n<dialogue>晚安，艾莉亚。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克从父亲的书房中走出，脚步轻快而坚定。她的眼睛里闪烁着新的希望和决心。</action>\n<parenthetical>(充满希望和决心地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_3a": {
+  "0": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚站在训练场的中央，手中紧握着一把木剑。她的眼神中充满了好奇和期待，身体微微前倾，表现出一种跃跃欲试的姿态。</action>\n<parenthetical>(坚定而充满好奇心)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [],
+  "3": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克认真地听着，她的眼睛专注地看着对方，身体微微前倾，表现出对所说内容的高度关注。</action>\n<parenthetical>(认真地，点头)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [],
+  "5": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚调整了握剑的姿势，她的手指轻轻滑过木剑的剑柄，感受着它的每一个细节。她的眼神中闪烁着坚定和自信，仿佛手中的木剑已经不再是冰冷的武器，而是一个可以与自己心灵相通的伙伴。</action>\n<parenthetical>(专注且充满信心)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [],
+  "7": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚全神贯注地看着，试图模仿他的每一个细节。她的眼神坚定而专注，尽管一开始动作有些笨拙，但她毫不气馁。她一次又一次地练习，每个动作都更加流畅自然。</action>\n<parenthetical>(坚定且专注)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [],
+  "9": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚深吸一口气，然后坚定地点了点头，表示她理解并接受了。</action>\n<parenthetical>(坚定地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [],
+  "11": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克在训练结束后，向西利欧深深地鞠了一躬。</action>\n<parenthetical>(诚恳地，对西利欧)</parenthetical>\n<dialogue>谢谢您，老师。我会继续努力的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [],
+  "13": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚转身离开训练场，步伐坚定而充满力量。她的脸上洋溢着新的希望和决心。</action>\n<parenthetical>(内心独白)</parenthetical>\n<dialogue>我一定要变得更强大，无论前方有什么挑战，我都不会退缩。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_3b": {
+  "0": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚已经早早地来到了训练场，她握紧手中的木剑，脸上充满了期待。她的目光坚定，身体微微前倾，准备开始训练。</action>\n<parenthetical></parenthalic>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚·史塔克坚定地点了点头，紧紧地握住了手中的木剑。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚全神贯注地看着西利欧的动作，眼睛紧紧跟随他的每一个细节。她开始模仿他的动作，一开始有些生疏和迟疑，但很快就找到了节奏。她的身体随着剑势起舞，每一次挥剑、转身都渐渐变得流畅自如，仿佛与剑融为一体。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [],
+  "6": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚深吸一口气，然后坚定地点了点头。</action>\n<parenthetical>(回忆起父亲的教诲，内心充满勇气和责任感)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>太阳逐渐升高，艾莉亚的汗水浸湿了她的衣衫。她继续挥剑练习，尽管身体疲惫，但她脸上的笑容却愈发灿烂。</action>\n<parenthetical></parenthalic>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚停下了她的动作，站直身体，目光坚定地看向老师。</action>\n<parenthetical>(认真地, 对老师)</parenthetical>\n<dialogue>老师，谢谢您。我会继续努力的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [],
+  "10": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚深深地鞠了一躬，然后缓缓地抬起头，眼神中充满了感激之情。她转身，步伐坚定地离开训练场，脸上洋溢着新的希望和决心。</action>\n<parenthetical>(充满感激与坚定)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚回到房间，缓缓坐下，眼神中充满了沉思。她闭上眼睛，脑海中回放着今天的训练场景。</action>\n<parenthetical>(坚定而充满决心)</parenthetical>\n<dialogue>无论未来怎样，我都会勇敢地面对，并尽自己最大的努力保护家人。</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_3c": {
+  "0": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚站在院子中央，手中紧握着木剑。她的眼神坚定而沉重，身体微微前倾，似乎在准备面对即将到来的挑战。</action>\n<parenthetical>(沉重的表情)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [],
+  "3": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚咬紧牙关，再次挥动木剑。她的动作更加僵硬，汗水顺着额头滑落，浸湿了衣衫。</action>\n<parenthetical>(咬紧牙关，充满决心)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [],
+  "5": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚停下了脚步，弯下腰，双手扶住膝盖，喘着粗气。她的脸上布满了汗水，眼神中充满了挫败感。</action>\n<parenthetical>(喘息着，眼神充满挫败)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚的声音有些颤抖，眼中带着无助和挫败感。</action>\n<parenthetical>(颤抖地，带着挫败感)</parentherical>\n<dialogue>老师……我做不到。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [],
+  "8": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚抬起头，眼神中闪过一丝迷茫。</action>\n<parenthetical>(迷茫且无助地)</parenthetical>\n<dialogue>我不知道该怎么办。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [],
+  "10": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚深吸一口气，努力平复自己的心情。她闭上眼睛，连续做了几次深呼吸，试图将所有的杂念排除在外。当她睁开眼睛时，眼中多了一份坚定。</action>\n<parenthetical>(坚定地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚重新握紧手中的木剑，深吸一口气，调整姿势。她再次挥动木剑，动作更加流畅自如，每一个挥剑的动作都显得更加自信和有力。</action>\n<parenthetical></parenthonetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [],
+  "13": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚脸上露出了久违的笑容，然后她向西利欧深深地鞠了一躬。</action>\n<parenthetical>(真诚地，感激地看着西利欧)</parenthetical>\n<dialogue>谢谢您，老师。我会继续努力的。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [],
+  "15": [
+   {
+    "艾莉亚·史塔克": "<detailed_performance>\n<character>艾莉亚·史塔克</character>\n<action>艾莉亚转身离开训练场，步伐坚定而迅速，眼中闪烁着新的希望和决心。</action>\n<parenthetical>(充满决心地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ }
+}

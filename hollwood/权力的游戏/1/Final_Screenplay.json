@@ -1,0 +1,261 @@
+{
+ "plot_1a": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔走在队伍的最前面，他的眼睛像鹰一样锐利地扫视着周围的环境。他突然停下脚步，伸出手指向远处一片被雪覆盖的凹陷处。</action>\n<parenthetical>(警觉而坚定)</parenthetical>\n<dialogue>那里有些不对劲，大家小心。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士, 威尔, 盖瑞</character>\n<action>威玛·罗伊斯爵士和盖瑞迅速跟上威尔的步伐，来到一片开阔的雪地。他们发现原本应该躺着几具野人尸体的地方现在空无一人，只有散落的衣物碎片和血迹斑斑的雪地。</action>\n<parenthetical>(惊讶且警惕)</parenthetical>\n<dialogue>这些尸体...它们去哪儿了？这里发生了什么？</dialogue>\n</detailed_performance>"
+   },
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士, 威尔, 盖瑞</character>\n<action>威玛·罗伊斯爵士和盖瑞迅速跟上威尔的步伐，三人一同来到威尔所指的地点。他们环视四周，发现原本躺着几具野人尸体的地方现在空无一物。只有散落的衣物碎片和雪地上斑斑血迹证明这里曾经发生过什么。</action>\n<parenthetical>(惊讶且警惕)</parenthetical>\n<dialogue>威玛·罗伊斯爵士: 这些尸体...它们去哪儿了？这里发生了什么？\n威尔: (声音颤抖) 我刚才还看到它们在这里...\n盖瑞: (眉头紧锁) 有东西把它们带走了...</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [],
+  "3": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士拔出他的长剑，紧握剑柄，目光警惕地扫视着四周覆盖着积雪的开阔地。</action>\n<parenthetical>(警惕而紧张)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [],
+  "5": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士挥剑，向那个神秘的身影猛烈砍去。然而，对方的动作快得惊人，轻而易举地躲过了他的攻击，并迅速反击。</action>\n<parenthetical>(惊恐万分，意识到自己无法应对)</parenthetical>\n<dialogue>不...这不可能！</dialogue>\n<action>罗伊斯还没来得及做出任何反应，就被一击致命，重重地倒在了雪地上。</action>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔目瞪口呆地看着威玛·罗伊斯爵士倒下，身体因恐惧而颤抖。</action>\n<parenthetical>(惊恐万分地)</parenthetical>\n<dialogue></dialogue>\n\n<character>盖瑞</character>\n<action>盖瑞同样被眼前的景象吓到，他本能地后退了一步，脸色变得苍白。</action>\n<parenthetical>(同样惊恐万分地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   },
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔, 盖瑞</character>\n<action>威尔和盖瑞的脸色瞬间变得苍白，他们的眼睛里充满了恐惧。威尔的视线紧紧锁定在倒下的威玛·罗伊斯爵士身上，他的身体微微颤抖，眼神中流露出深深的绝望。</action>\n<parenthetical>(恐惧地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [],
+  "8": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞的脸上露出极度惊恐的表情，他猛地转身，开始全力奔跑。</action>\n<parenthetical>(惊恐万分地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的身体在罗伊斯冰冷的手指下逐渐变得虚弱无力，他的视线开始模糊，周围的景象变得朦胧不清。</action>\n<parenthetical>(眼神中充满恐惧和绝望)</parenthetical>\n<dialogue>那双恐怖的蓝眼睛...在黑暗中闪烁...</dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_1b": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔, 盖瑞</character>\n<action>威尔与盖瑞并肩走在一条狭窄的小径上，他们的眼睛不停地扫视着周围的茂密树林。威尔的手放在剑柄上，随时准备应对可能出现的威胁。盖瑞则不时弯腰检查地面上的痕迹或植物。</action>\n<parenthetical>(警惕地, 对四周环境)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞突然打破了沉默，开口说话。</action>\n<parenthetical>(平静而坚定地，看着威尔)</parenthetical>\n<dialogue>威尔，有些事情我们必须得谈谈了。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下脚步，目光投向远方，似乎在回忆着什么。</action>\n<parenthetical>(深情地，对盖瑞说)</parenthetical>\n<dialogue>你还记得吗？你父亲教你那些生存技巧的时候。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔点点头，嘴角露出一丝微笑。</action>\n<parenthetical>(回忆起往事，温和地对盖瑞说)</parenthetical>\n<dialogue>当然记得。那时候我还是个小孩子，父亲带我去森林里露营。他教我如何识别不同的足迹、如何找到水源……还有，最重要的是，他告诉我无论遇到什么困难都不要放弃。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔站在行进中的小路上，眼神迷离，似乎完全沉浸在自己的回忆中。他轻轻闭上眼睛，仿佛能够看到那个阳光明媚的下午，感受到温暖的阳光洒在脸上。</action>\n<parenthetical>(柔和而怀念地自言自语)</parenthetical>\n<dialogue>父亲，您总是那么耐心地教我每一片叶子、每一棵树的意义……那些日子，是我一生中最美好的时光。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞停下脚步，转身面对威尔，眼中带着一丝温柔的怀念。</action>\n<parenthetical>(感慨地，对威尔)</parenthetical>\n<dialogue>你的父亲一定很了不起。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔低头，眼神中流露出深深的怀念与敬意。</action>\n<parenthetical>(轻声地，带着一丝怀念)</parenthetical>\n<dialogue>是啊，我希望现在也能让他感到骄傲。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>盖瑞</character>\n<action>盖瑞轻轻地拍了拍威尔的肩膀，眼中充满了赞赏和鼓励。</action>\n<parenthetical>(温和而坚定地, 对威尔)</parenthetical>\n<dialogue>你已经是了，你知道吗？从我们第一次遇见到现在，你真的成长了很多。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的眼神变得温柔，他的脸上浮现出一抹温暖的微笑。</action>\n<parenthetical>(感激地，看着盖瑞)</parenthetical>\n<dialogue>谢谢你，盖瑞。你的支持让我感到很温暖。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下脚步，转过身来面对盖瑞，表情变得严肃而真诚。</action>\n<parenthetical>(认真地，向盖瑞解释)</parenthetical>\n<dialogue>其实我也想告诉你一件事。我对北方植物的兴趣，并不是无缘无故产生的。小时候我曾得过一场重病，是当地一位老草药师用一些稀有的草药治好了我。从那以后我就开始对这些自然界的奇迹产生了浓厚的兴趣。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔停下脚步，目光投向远方，脸上露出一种深思的表情。</action>\n<parenthetical>(感叹地, 对盖瑞)</parenthetical>\n<dialogue>真是命运的奇妙安排啊。我从来没有想过会有这样的一天。</dialogue>\n<action>接着，他转过头来认真地看着盖瑞，眼神中充满了专注和敬意。</action>\n<parenthetical>(认真地, 听着盖瑞的故事)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔, 盖瑞</character>\n<action>威尔和盖瑞继续沿着小路前行，他们的步伐缓慢而坚定。两人的眼神中透露出深深的沉思，仿佛被过去的记忆所吸引。</action>\n<parenthetical>(沉浸在回忆之中)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔, 盖瑞</character>\n<action>一阵轻微的响动从不远处传来，引起了两人的警觉。威尔和盖瑞立刻停下脚步，同时握紧手中的武器。他们背靠背站立，目光警惕地扫视四周，准备迎接即将到来的一切挑战。</action>\n<parenthetical>(紧张而专注，彼此之间有着默契)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_2a": {
+  "0": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士低声说道，眼神中带着不安。他拔出长剑，警惕地环顾四周。</action>\n<parenthetical>(低声且紧张)</parenthetical>\n<dialogue>这里不对劲...我们必须小心。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士紧握手中的武器，四处张望，身体紧绷，显得非常紧张。</action>\n<parenthetical>(紧张地观察四周)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "2": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士紧握手中的长剑，目光警惕地扫视四周，身体微微前倾，做好了随时应对可能威胁的准备。</action>\n<parenthetical>(警觉而紧张)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士突然停下脚步，身体僵硬，眼神中流露出恐惧。他的呼吸变得急促而艰难。</action>\n<parenthetical>(惊恐地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "盖瑞": "<scene>森林中一个空旷地带</scene>\n<detailed_performance>\n<character>威尔</character>\n<action>威尔的身体微微颤抖，眼神中透露出不安和恐惧。</action>\n<parenthetical>(紧张地四处张望)</parenthetical>\n<dialogue>听……那是什么声音？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威尔</character>\n<action>威尔的眼神变得更加锐利，他迅速冲向声音传来的方向。</action>\n<parenthetical>(警觉地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [],
+  "8": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士停下脚步，目光紧锁前方，看到一个浑身散发着寒气的身影缓缓走来。他迅速拔出剑，准备战斗。</action>\n<parenthetical>(惊恐地, 对着那个身影)</parenthetical>\n<dialogue>异鬼！</dialogue>\n<action>随即挥剑砍向那个身影。</action>\n</detailed_performance>"
+   }
+  ],
+  "9": [],
+  "10": [
+   {
+    "威玛·罗伊斯爵士": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士被一击致命，身体猛地向后仰倒，在雪地上挣扎了几下后，最终无力地躺在了冰冷的雪地中。</action>\n<parenthetical></parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔眼睁睁看着威玛·罗伊斯爵士倒下，他的眼神中充满了绝望和无助。</action>\n<parenthetical>(内心充满恐惧与悲伤)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [],
+  "13": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士挣扎着，身体因痛苦而扭曲，发出沉重的呻吟声。他艰难地喘息着，每一次呼吸都显得异常艰难。他的双手试图挣脱某种看不见的力量，但实际上是在挣脱威尔冰冷的手指。</action>\n<parenthetical>(绝望且恐惧)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士见到异鬼，脸上瞬间充满了惊恐的表情，身体僵硬了几秒钟后，迅速转身，开始全力奔跑，试图逃离现场。</action>\n<parenthetical>(惊恐万分地)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士的手指冰冷地触碰着他的武器，身体渐渐无力地倒下，周围的环境开始变得模糊不清。</action>\n<parenthetical>(在恐惧与绝望中)</parenthetical>\n<dialogue>...</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "16": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士再次睁开眼睛，发现自己躺在雪地上。他缓缓坐起，环顾四周，发现四周一片寂静，只有几片雪花轻轻地落在他的脸上。</action>\n<parenthetical>(困惑而惊恐)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "17": [
+   {
+    "威尔": "<detailed_performance>\n<character>威玛·罗伊斯爵士</character>\n<action>威玛·罗伊斯爵士挣扎着从地上站起来，身体摇晃不定，眼中流露出深深的无助与绝望。</action>\n<parenthetical>(内心充满恐惧和无力感)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ]
+ },
+ "plot_3a": {
+  "0": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>孤独地站在雪地上，紧握着手中的长剑，手指因寒冷而微微颤抖。</action>\n<parenthetical>(紧张且警惕地环顾四周)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "1": [],
+  "2": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔站在空旷的雪原上，环顾四周，似乎在寻找什么。他低声自语，声音几乎被风吹散。</action>\n<parenthetical>(低声自语，显得焦虑且困惑)</parenthetical>\n<dialogue>你们在哪里？</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "3": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>深吸一口气，然后缓缓吐出，努力让自己冷静下来。他开始环顾四周，眼神敏锐地扫视着每一个角落，寻找任何可能的线索。</action>\n<parenthetical></parenthalic>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "4": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>听到一阵微弱的脚步声，立刻警觉起来，握紧手中的长剑，缓缓地、小心翼翼地向声音的方向走去。</action>\n<parenthetical>(警惕且专注)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "5": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔小心翼翼地穿过一片密林，目光敏锐地扫视着四周。突然，他停下脚步，蹲下身子仔细观察地面。他发现了一条模糊的足迹，眉头紧锁，仔细辨认后确认这似乎是盖瑞留下的。</action>\n<parenthetical>(专注而警惕，自言自语)</parenthetical>\n<dialogue>这是...盖瑞的脚印？他来过这里了。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "6": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔加快步伐，沿着地面上留下的足迹追踪下去。他的目光紧紧锁定在前方的脚印上，每一步都显得异常谨慎而坚定。</action>\n<parenthetical>(紧张而专注)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "7": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔来到一个小山丘上，从这里可以俯瞰整个区域。他停下脚步，仔细观察周围的情况，目光锐利地扫视着四周的每一个角落。</action>\n<parenthetical>(警觉而专注)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "8": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔在荒野中看到远处有一道人影在移动，心跳加速。他迅速跑下山丘，朝着那道人影的方向追去。</action>\n<parenthetical></parenthagetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "9": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>随着威尔一步步接近那个人影，他眯起眼睛试图看得更清楚。终于，在距离足够近时，他认出了那个人——正是盖瑞！</action>\n<parenthetical>(惊讶且充满希望)</parenthetical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "10": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔在荒野中突然停下脚步，目光聚焦于某个方向。</action>\n<parenthetical>(激动地, 向着发现的目标大声喊叫)</parenthetical>\n<dialogue>你还活着！</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "11": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔脸上带着疲惫但欣慰的笑容，转向他的同伴。</action>\n<parenthetical>(疲惫但欣慰地，对同伴)</parenthetical>\n<dialogue>你也一样。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "12": [],
+  "13": [
+   {
+    "威尔": "<detailed_performance>\n<character>威尔</character>\n<action>威尔环顾四周，眼神中充满了警惕和紧迫感。</action>\n<parenthetical>(严肃地，对同伴们)</parenthetical>\n<dialogue>我们必须尽快离开这里，异鬼还在附近。</dialogue>\n</detailed_performance>"
+   }
+  ],
+  "14": [
+   {
+    "盖瑞": "<detailed_performance>\n<character>威尔</character>\n<action>威尔轻轻地点了点头，他的眼神中透露出坚定和一丝不易察觉的担忧。</action>\n<parenthetical>(坚定地，略带担忧)</parentherical>\n<dialogue></dialogue>\n</detailed_performance>"
+   }
+  ],
+  "15": []
+ }
+}
